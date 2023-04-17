@@ -126,7 +126,7 @@ YT Music, without ads + beautiful design
 
 # Useful Tools:
 
-###  ⭐ [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)\
+###  ⭐ [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 A counter app with really beautiful material you designs and animations!
 
 ### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
