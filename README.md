@@ -62,11 +62,16 @@ pretty sure it has material you.
 
 # Youtube:
 
-### Normal youtube doesnt have material you, so use YT revanced extended
+### Normal youtube doesnt have material you, so use YT revanced extended or LibreTube (Beware! against TOS, IM NOT RESPONSIBLE FOR A BAN! although you should be okay!)
 
 [FOSS] [Revanced extended Tutorial (XDA forum)](https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/) or [Revanced extended Tutorial (Video Tutorial) ](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Material-Youtube)
 
+[LibreTube](https://github.com/libre-tube/LibreTube)
+
 # FOSS/Open-Source apps: 
+
+### ⭐ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
+F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS
 
 ### ⭐ [FOSS] [Revanced Manager](https://github.com/revanced/revanced-manager) 
 app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... youtube isnt open-source but the manager is!
@@ -110,10 +115,10 @@ Material you icons, plus changes with dark mode on most launchers. It costs mone
 
 # Video & Music:
 
-### [FOSS] ⭐ [Seal](https://github.com/JunkFood02/Seal)
+### ⭐ [FOSS]  [Seal](https://github.com/JunkFood02/Seal)
 video downloader! just click share on your video, and click "seal" or "quick donwnload! can be added to revanced by changing downloader package name to "com.junkfood.seal" (will make a tutorial soon) :)
 
-### [FOSS] ⭐ [YTDLnis](https://github.com/deniscerri/ytdlnis)
+### ⭐ [FOSS] [YTDLnis](https://github.com/deniscerri/ytdlnis)
 Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl" (will make a tutorial soon) :)
 
 ### ⭐ [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
@@ -131,7 +136,31 @@ YT Music, without ads + beautiful design
 ###  ⭐ [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 A counter app with really beautiful material you designs and animations!
 
+### ⭐ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
+F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS
+
 ### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
 
 ### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 podcasting app.
+
+### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+manga reader! OwO
+
+### [Compass](https://github.com/SynapseTech/Compass)
+a very ✨beautiful✨ looking compass!
+
+### [FOSS] [Feeder](https://gitlab.com/spacecowboy/Feeder)
+beautiful RSS feed reeder!
+
+
+# Wallpapers:
+
+### [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
+Really nice and unique material you wallpapers!
+
+### [PaperSplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
+Nice looking app! but includes a pro version.
+
+### [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
+Amazing wallpapers, with amazing and customizable animations!
