@@ -101,8 +101,13 @@ Icons for lawnchair, nova and niagara... its like the google "Material you theme
 ### ⭐ [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
 Material you icons, plus changes with dark mode on most launchers. It costs money tho!
 
-# Music:
+# Video & Music:
+
+### ⭐ [Seal](https://github.com/JunkFood02/Seal)
+video downloader! just click share on your video, and click "seal" or "quick donwnload! can be added to revanced by changing downloader package name to "com.junkfood.seal" (will make a tutorial soon) :)
+
+### ⭐ [YTDLnis](https://github.com/deniscerri/ytdlnis)
+Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl" (will make a tutorial soon) :)
 
 ### ⭐ [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
 Local music player with material you!
-
