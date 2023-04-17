@@ -101,4 +101,8 @@ Icons for lawnchair, nova and niagara... its like the google "Material you theme
 ### ⭐ Pix Material You Light/Dark: https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US
 Material you icons, plus changes with dark mode on most launchers. It costs money tho!
 
+# Music:
+
+### ⭐ Retro Music Player: https://play.google.com/store/apps/details?id=code.name.monkey.retromusic
+Local music player with material you!
 
