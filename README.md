@@ -3,7 +3,7 @@ A list of material you apps and software for android! (⭐ = awesome/some of my 
 
 # Launchers:
 
-### ⭐ Lawnchair 12[ https://lawnchair.app/](url): https://lawnchair.app/ or https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/ (for dev/debug builds)
+### ⭐ Lawnchair 12[Lawnchair]( https://lawnchair.app/): https://lawnchair.app/ or https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/ (for dev/debug builds)
 lawnchair is a material you launcher, its basicly like the Pixel launcher/stock android but with more customization.
 
 ### ⭐ Nova launcher 8: https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/ (for beta builds)
