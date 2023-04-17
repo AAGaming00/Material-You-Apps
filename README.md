@@ -67,15 +67,38 @@ app to get YT premium and other features (not just youtube + has a material you 
 ### ⭐ Lawnchair 12: https://lawnchair.app/ or https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/ (for dev/debug builds)
 lawnchair is a material you launcher, its basicly like the Pixel launcher/stock android but with more customization.
 
+### ⭐ LawnIcons: https://github.com/LawnchairLauncher/lawnicons
+Icons for lawnchair, nova and niagara... its like the google "Material you themed icons" but with more icons!
+
+### ⭐ Mulch: https://gitlab.com/divested-mobile/mulch
+Chrome but open-source and with more privacy features!
+
 ### Geometric weather: https://f-droid.org/en/packages/wangdaye.com.geometricweather/
 
 ### Kvaesitso: https://github.com/MM2-0/Kvaesitso or https://kvaesitso.mm20.de/
 Unique and really cool launcher!
 
-### LawnIcons: https://github.com/LawnchairLauncher/lawnicons
+### Material files: https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US
+like the google files app, but open-source and cleaner! (in my opinion)
+
+### Bromite: https://www.bromite.org/
+Mulch (privacy chrome) but i wouldnt recommend 'cause its outdated. (a security issue)
+
+### Vanced microG (fork by inotia00): https://github.com/inotia00/VancedMicroG
+outdated, but still works! use for vanced, revanced and revanced extended!
+
+### Infinity for reddit: https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US
+ad-free reddit + toggle-able material you!
+
+### Bromite WebView: https://www.bromite.org/system_web_view
+outdated, requires root.
+
+# Icons:
+
+### ⭐ LawnIcons: https://github.com/LawnchairLauncher/lawnicons
 Icons for lawnchair, nova and niagara... its like the google "Material you themed icons" but with more icons!
 
-
-
+### ⭐ Pix Material You Light/Dark: https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US
+Material you icons, plus changes with dark mode on most launchers. It costs money tho!
 
 
