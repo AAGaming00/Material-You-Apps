@@ -1,4 +1,4 @@
-# Material-You-Apps
+# Material You Apps!
 A list of material you apps and software for android! (star = awesome/some of my favorites!)
 
 # Launchers:
