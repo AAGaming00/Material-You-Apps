@@ -153,6 +153,9 @@ a very ✨beautiful✨ looking compass!
 ### [FOSS] [Feeder](https://gitlab.com/spacecowboy/Feeder)
 beautiful RSS feed reeder!
 
+### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US)
+~ request by mirko_ddd :)
+beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
 
 # Wallpapers:
 
