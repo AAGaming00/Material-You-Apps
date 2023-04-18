@@ -156,6 +156,10 @@ beautiful RSS feed reeder!
 
 # Wallpapers:
 
+### ⭐ [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)
+~ requested by Never_Sm1le :)
+Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
+
 ### [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 Really nice and unique material you wallpapers!
 
