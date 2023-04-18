@@ -61,14 +61,20 @@ There is an [FOSS] alternative (for privacy) called ["mulch"](https://gitlab.com
 ### Youtube:
 ### Normal youtube doesn't have material you, so use YT revanced extended or LibreTube (Beware! against TOS, IM NOT RESPONSIBLE FOR A BAN! although you should be okay!)
 
-[FOSS] [Revanced extended Tutorial (XDA forum)](https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/) or [YT Material you (Tutorial I made) ](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
+### [FOSS] [Revanced extended Tutorial (XDA forum)](https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/) or [YT Material you (Tutorial I made) ](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
 
 [LibreTube](https://github.com/libre-tube/LibreTube)
 
 ### Twitter:
-### Normal Twitter also doesn't have material you, So Use revanced manager
+### Use [FOSS] [revanced manager](https://github.com/revanced/revanced-manager) and follow my tutorial!
 
-[FOSS] [Twitter material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
+[Twitter material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
+
+### Telegram:
+
+### Use [FOSS] [Telegram monet](https://github.com/c3r5b8/Telegram-Monet) and follow my tutorial!
+
+[Telegram material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
 
 # FOSS/Open-Source apps: 
 
