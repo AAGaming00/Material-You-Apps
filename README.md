@@ -65,14 +65,14 @@ pretty sure it has material you.
 ### Youtube:
 ### Normal youtube doesnt have material you, so use YT revanced extended or LibreTube (Beware! against TOS, IM NOT RESPONSIBLE FOR A BAN! although you should be okay!)
 
-[FOSS] [Revanced extended Tutorial (XDA forum)](https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/) or [YT Material you (Video Tutorial) ](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Material-Youtube)
+[FOSS] [Revanced extended Tutorial (XDA forum)](https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/) or [YT Material you (Tutorial I made) ](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
 
 [LibreTube](https://github.com/libre-tube/LibreTube)
 
 ### Twitter:
 ### Normal Twitter also doenst have material you, So Use revanced manager
 
-[FOSS] [Twitter material you (Video Tutorial)](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
+[FOSS] [Twitter material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
 
 # FOSS/Open-Source apps: 
 
