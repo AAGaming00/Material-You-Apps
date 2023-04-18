@@ -139,6 +139,11 @@ A counter app with really beautiful material you designs and animations!
 ### ⭐ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
 F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS
 
+### ⭐ [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
+
+~ Requested and created by moneytoo :)
+really cool weather app, with a material you design!
+
 ### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
 
 ### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
@@ -157,6 +162,11 @@ beautiful RSS feed reeder!
 
 ~ request by mirko_ddd :)
 beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
+
+### [Cofi](https://github.com/rozPierog/Cofi)
+
+~ Request by Rozpierog
+A Coffee timer to help you be consistent! i only drink starbucks tho~ (*-*)
 
 # Wallpapers:
 
