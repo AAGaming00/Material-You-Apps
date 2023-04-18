@@ -165,7 +165,7 @@ beautiful app! its makes it so that you can pin texts, images, videos, audios, a
 
 ### [Cofi](https://github.com/rozPierog/Cofi)
 
-~ Request by Rozpierog
+~ Request by Rozpierog :)
 A Coffee timer to help you be consistent! i only drink starbucks tho~ (*-*)
 
 # Wallpapers:
