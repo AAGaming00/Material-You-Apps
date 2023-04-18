@@ -3,7 +3,7 @@
 ![Google-Material-You-Summary](https://user-images.githubusercontent.com/123305689/232575499-84f0211f-a0c8-4f3f-a572-aa5d2fb24b22.jpg)
 
 
-# Inspired by nyas1's material you List!
+# Inspired by [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
 ### **A list of material you apps and software for android!** (⭐ = awesome/some of my favorites!) (FOSS = Free and Open-Source!)
 
