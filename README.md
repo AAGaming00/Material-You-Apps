@@ -14,7 +14,7 @@
 lawnchair is a material you launcher, its basicly like the Pixel launcher/stock android but with more customization.
 
 ### ⭐ [Nova launcher 8 (for beta builds)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
-extremely customizable launcher, got accuired by branch: [Nova joins branch (reddit)]([url](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/))
+extremely customizable launcher, got accuired by branch: [Nova joins branch (reddit)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 (So be careful with security)
 
 ### [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
