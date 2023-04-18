@@ -70,7 +70,7 @@ pretty sure it has material you.
 [LibreTube](https://github.com/libre-tube/LibreTube)
 
 ### Twitter:
-Normal Twitter also doenst have material you, So Use revanced manager
+### Normal Twitter also doenst have material you, So Use revanced manager
 
 [FOSS] [Twitter material you (Video Tutorial)](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
 
