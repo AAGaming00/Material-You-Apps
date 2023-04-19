@@ -150,12 +150,11 @@
 > F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS!
 
 ### ⭐ [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
+~ Requested and created by moneytoo :)
+> really cool weather app, with a material you design!
 
 ### [ReadYou](https://github.com/Ashinch/ReadYou)
 > A beautiful RSS Reader!
-
-~ Requested and created by moneytoo :)
-> really cool weather app, with a material you design!
 
 ### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
 
