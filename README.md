@@ -76,6 +76,11 @@ There is an [FOSS] alternative (for privacy) called ["mulch"](https://gitlab.com
 
 ### [Telegram material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases)
 
+### Instagram:
+
+### Normal instagram doenst have material you, so use [Instander](https://thedise.me/instander/)
+~ Requested by Ayyndrew :)
+
 # FOSS/Open-Source apps: 
 
 ### ⭐ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
