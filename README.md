@@ -193,3 +193,22 @@
 
 ### [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 > Amazing wallpapers, with amazing and customizable animations!
+
+# Widgets:
+
+### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED! THEY COST MONEY BUT ARE WORTH IT!
+
+### ⭐ [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
+> Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
+
+### [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack)
+> The most basic and true-to-life android 12 inspired widgets!
+
+### [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app)
+interchangeable android and ios widgets!
+
+### [MaterialWho? KWGT](https://play.google.com/store/apps/details?id=com.dosartsmtrlwho.widgets)
+> Material you inspired widgets, that are symmetrical? cool...
+
+### [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app)
+> As the name suggests, pastel android 12 inspired widgets!
