@@ -5,15 +5,15 @@
 
 # Inspired by [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
-### **A list of material you apps and software for android!** (⭐ = awesome/some of my favorites!) (FOSS = Free and Open-Source!)
+### **A list of material you apps and software for android!** (☕ = awesome/some of my favorites!) (FOSS = Free and Open-Source!)
 
 # Launchers:
 
-### ⭐ [FOSS] [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 dev/debug](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
+### ☕ [FOSS] [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 dev/debug](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 
 > lawnchair is a material you launcher, its like the Pixel launcher/stock android but with more customization.
 
-### ⭐ [Nova launcher 8 (for beta builds)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
+### ☕ [Nova launcher 8 (for beta builds)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
 > extremely customizable launcher, got accuired by branch: [Nova joins branch (reddit)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 (So be careful with security)
 
@@ -28,7 +28,7 @@
 
 # Notes
 
-### ⭐ [Bundled Notes](https://bundlednotes.com/)
+### ☕ [Bundled Notes](https://bundlednotes.com/)
  > Only material you notes i could find! its really beautiful. (but includes a paid version)
  
 # Google Apps:
@@ -83,19 +83,19 @@
 
 # FOSS/Open-Source apps: 
 
-### ⭐ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
+### ☕ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
 > F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS!
 
-### ⭐ [FOSS] [Revanced Manager](https://github.com/revanced/revanced-manager) 
+### ☕ [FOSS] [Revanced Manager](https://github.com/revanced/revanced-manager) 
 > app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
 
-### ⭐ [FOSS] [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 dev/debug](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
+### ☕ [FOSS] [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 dev/debug](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 > lawnchair is a material you launcher, its like the Pixel launcher/stock android but with more customization.
 
-### ⭐ [FOSS] [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
+### ☕ [FOSS] [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
 > Icons for lawnchair, nova (And more!) its like the google "Material you themed icons" but with more icons!
 
-### ⭐ [FOSS] [Mulch](https://gitlab.com/divested-mobile/mulch) 
+### ☕ [FOSS] [Mulch](https://gitlab.com/divested-mobile/mulch) 
 > Chrome but open-source and with more privacy features!
 
 ### [FOSS] [Geometric weather](https://f-droid.org/en/packages/wangdaye.com.geometricweather/) 
@@ -117,21 +117,21 @@
 
 # Icons:
 
-### [FOSS] ⭐ [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
+### [FOSS] ☕ [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
 
-### ⭐ [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
+### ☕ [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
 > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
 
 # Video & Music:
 
-### ⭐ [FOSS]  [Seal](https://github.com/JunkFood02/Seal)
+### ☕ [FOSS]  [Seal](https://github.com/JunkFood02/Seal)
 > video downloader! just click share on your video, and click "seal" or "quick donwnload!" can be added to revanced by changing downloader package name to "com.junkfood.seal" (will make a tutorial soon) :)
 
-### ⭐ [FOSS] [YTDLnis](https://github.com/deniscerri/ytdlnis)
+### ☕ [FOSS] [YTDLnis](https://github.com/deniscerri/ytdlnis)
 > Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl" (will make a tutorial soon) :)
 
-### ⭐ [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
+### ☕ [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
 > Local music player with material you!
 
 ### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
@@ -143,17 +143,17 @@
 
 # Useful Tools:
 
-###  ⭐ [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
+###  ☕ [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 > A counter app with really beautiful material you designs and animations!
 
-### ⭐ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
+### ☕ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
 > F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS!
 
-### ⭐ [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
+### ☕ [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
 ~ Requested and created by moneytoo :)
 > really cool weather app, with a material you design!
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [FOSS] [ReadYou](https://github.com/Ashinch/ReadYou)
 > A beautiful RSS Reader!
 
 ### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
@@ -164,7 +164,7 @@
 ### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 > manga reader! OwO
 
-### [Compass](https://github.com/SynapseTech/Compass)
+### [FOSS] [Compass](https://github.com/SynapseTech/Compass)
 > a very ✨beautiful✨ looking compass!
 
 ### [FOSS] [Feeder](https://gitlab.com/spacecowboy/Feeder)
@@ -181,7 +181,7 @@
 
 # Wallpapers:
 
-### ⭐ [FOSS] [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)
+### ☕ [FOSS] [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)
 ~ requested by Never_Sm1le :)
 > Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
 
@@ -198,8 +198,13 @@
 
 ### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED! THEY COST MONEY BUT ARE WORTH IT!
 
-### ⭐ [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
+### ☕ [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
+
+### ☕ [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept)
+> Unique material you inspired widgets. also contains wallpapers. Also more detailed. For example: Grabbing light
+from the sun's position and adding the light to the widgets! coulor theming for android 5+ and monet for android 12+
+the light illuminated part is transparent and fade to solid (All features can me manually customized)
 
 ### [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack)
 > The most basic and true-to-life android 12 inspired widgets!
