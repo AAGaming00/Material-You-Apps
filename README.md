@@ -151,6 +151,9 @@
 
 ### ⭐ [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
 
+### [ReadYou](https://github.com/Ashinch/ReadYou)
+> A beautiful RSS Reader!
+
 ~ Requested and created by moneytoo :)
 > really cool weather app, with a material you design!
 
