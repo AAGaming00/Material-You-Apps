@@ -11,20 +11,17 @@
 
 ### ⭐ [FOSS] [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 dev/debug](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 
-lawnchair is a material you launcher, its basicly like the Pixel launcher/stock android but with more customization.
+lawnchair is a material you launcher, its like the Pixel launcher/stock android but with more customization.
 
 ### ⭐ [Nova launcher 8 (for beta builds)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
 extremely customizable launcher, got accuired by branch: [Nova joins branch (reddit)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 (So be careful with security)
 
 ### [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
-niagara launcher is a minimalists launcher with really nice features! (includes a paid version)
-
-### [Action Launcher: Pixel Edition](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore) 
-buggy... wouldnt recommend, but hey.. it has material you :)
+niagara launcher is a minimalist launcher with really nice features! (includes a paid version)
 
 ### [Nothing Launcher 1.0.2](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) 
-this is the only version that works for non-nothing devices, cool if you like a nothing style!
+this is the only version that works for phones that isn't the nothing phone, cool if you like the nothing style!
 
 ### [FOSS] [Kvaesitso](https://kvaesitso.mm20.de/) or [Kvaesitso (Github link)](https://github.com/MM2-0/Kvaesitso)
 Unique and really cool launcher!
@@ -32,15 +29,14 @@ Unique and really cool launcher!
 # Notes
 
 ### ⭐ [Bundled Notes](https://bundlednotes.com/)
- Only material notes i could find! its really beautiful. (but includes a paid version)
+ Only material you notes i could find! its really beautiful. (but includes a paid version)
  
 # Google Apps:
 
 ### [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US) 
-There is an open source alternative (for privacy) called "mulch" (its also gonna be on this list)
+There is an [FOSS] alternative (for privacy) called ["mulch"](https://gitlab.com/divested-mobile/mulch) (its also gonna be on this list)
 
 ### [Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
-pretty sure it has material you.
 
 ### [Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
 
@@ -63,30 +59,30 @@ pretty sure it has material you.
 # Social media:
 
 ### Youtube:
-### Normal youtube doesnt have material you, so use YT revanced extended or LibreTube (Beware! against TOS, IM NOT RESPONSIBLE FOR A BAN! although you should be okay!)
+### Normal youtube doesn't have material you, so use YT revanced extended or LibreTube (Beware! against TOS, IM NOT RESPONSIBLE FOR A BAN! although you should be okay!)
 
 [FOSS] [Revanced extended Tutorial (XDA forum)](https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/) or [YT Material you (Tutorial I made) ](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
 
 [LibreTube](https://github.com/libre-tube/LibreTube)
 
 ### Twitter:
-### Normal Twitter also doenst have material you, So Use revanced manager
+### Normal Twitter also doesn't have material you, So Use revanced manager
 
 [FOSS] [Twitter material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases/tag/Tutorials)
 
 # FOSS/Open-Source apps: 
 
 ### ⭐ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
-F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS
+F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS!
 
 ### ⭐ [FOSS] [Revanced Manager](https://github.com/revanced/revanced-manager) 
-app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... youtube isnt open-source but the manager is!
+app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
 
 ### ⭐ [FOSS] [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 dev/debug](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
-lawnchair is a material you launcher, its basicly like the Pixel launcher/stock android but with more customization.
+lawnchair is a material you launcher, its like the Pixel launcher/stock android but with more customization.
 
 ### ⭐ [FOSS] [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
-Icons for lawnchair, nova and niagara... its like the google "Material you themed icons" but with more icons!
+Icons for lawnchair, nova (And more!) its like the google "Material you themed icons" but with more icons!
 
 ### ⭐ [FOSS] [Mulch](https://gitlab.com/divested-mobile/mulch) 
 Chrome but open-source and with more privacy features!
@@ -106,23 +102,20 @@ Mulch (privacy chrome) but i wouldnt recommend 'cause its outdated. (a security 
 outdated, but still works! use for vanced, revanced and revanced extended!
 
 ### [FOSS] [Infinity for reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) 
-ad-free reddit + toggle-able material you!
-
-### [FOSS] [Bromite WebView](https://www.bromite.org/system_web_view) 
-outdated, requires root.
+ad-free reddit + material you! MATERIAL YOU HAS TO BE ENABLED IN SETTINGS!
 
 # Icons:
 
 ### [FOSS] ⭐ [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
-Icons for lawnchair, nova and niagara... its like the google "Material you themed icons" but with more icons!
+Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
 
 ### ⭐ [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
-Material you icons, plus changes with dark mode on most launchers. It costs money tho!
+Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
 
 # Video & Music:
 
 ### ⭐ [FOSS]  [Seal](https://github.com/JunkFood02/Seal)
-video downloader! just click share on your video, and click "seal" or "quick donwnload! can be added to revanced by changing downloader package name to "com.junkfood.seal" (will make a tutorial soon) :)
+video downloader! just click share on your video, and click "seal" or "quick donwnload!" can be added to revanced by changing downloader package name to "com.junkfood.seal" (will make a tutorial soon) :)
 
 ### ⭐ [FOSS] [YTDLnis](https://github.com/deniscerri/ytdlnis)
 Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl" (will make a tutorial soon) :)
@@ -143,7 +136,7 @@ YT Music, without ads + beautiful design
 A counter app with really beautiful material you designs and animations!
 
 ### ⭐ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
-F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS
+F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS!
 
 ### ⭐ [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
 
@@ -184,7 +177,7 @@ Amazingly designed app, this allows you to change wallpaper to follow light and 
 Really nice and unique material you wallpapers!
 
 ### [PaperSplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
-Nice looking app! but includes a pro version.
+Nice looking app! (but includes a pro version)
 
 ### [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 Amazing wallpapers, with amazing and customizable animations!
