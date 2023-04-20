@@ -109,6 +109,21 @@
 ### ☕ [FOSS] [Mulch](https://gitlab.com/divested-mobile/mulch) 
 > Chrome but open-source and with more privacy features!
 
+### [FOSS] [Compass](https://github.com/SynapseTech/Compass)
+> a very ✨beautiful✨ looking compass!
+
+### [FOSS] [Feeder](https://gitlab.com/spacecowboy/Feeder)
+> beautiful RSS feed reeder!
+
+### [FOSS] [Cofi](https://github.com/rozPierog/Cofi)
+
+~ Request by Rozpierog :)
+> A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
+
+### ☕ [FOSS] [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)
+~ requested by Never_Sm1le :)
+> Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
+
 ### [FOSS] [Geometric weather](https://f-droid.org/en/packages/wangdaye.com.geometricweather/) 
 
 ### [FOSS] [Kvaesitso](https://kvaesitso.mm20.de/) or [Kvaesitso (Github link)](https://github.com/MM2-0/Kvaesitso)
@@ -188,7 +203,7 @@
 ### [FOSS] [Cofi](https://github.com/rozPierog/Cofi)
 
 ~ Request by Rozpierog :)
-> A Coffee timer to help you be consistent! i only drink starbucks tho~ (*-*)
+> A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
 
 # Wallpapers:
 
