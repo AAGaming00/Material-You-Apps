@@ -15,7 +15,7 @@
 
 ### ☕ [Nova launcher 8 (for beta builds)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
 > extremely customizable launcher, got accuired by branch: [Nova joins branch (reddit)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
-(So be careful with security)
+(So be careful with security) [Nova Prime (for free!) Tutorial](https://github.com/TheyEatAnything/Material-You-Apps/releases/tag/Tutorials!)
 
 ### [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 > niagara launcher is a minimalist launcher with really nice features! (includes a paid version)
@@ -29,12 +29,15 @@
 # Notes:
 
 ### ☕ [Bundled Notes](https://bundlednotes.com/)
- > Only material you notes i could find! its really beautiful. (but includes a paid version)
+ > Material you notes app,really beautiful. like amazingly fluid and amazing! (but includes a paid version)
  
+### [FOSS] [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
+> Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
+
 # Google Apps:
 
 ### [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US) 
-> There is an [FOSS] alternative (for privacy) called ["mulch"](https://gitlab.com/divested-mobile/mulch) (its also gonna be on this list)
+> There is a [FOSS] alternative (for privacy) called ["mulch"](https://gitlab.com/divested-mobile/mulch) (its also on this list)
 
 ### [Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
@@ -43,8 +46,10 @@
 ### [Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) 
 
 ### [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts) 
+> There is a [FOSS] alternative called [Simple Contacts](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/)
 
 ### [Files](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) 
+> There is a [FOSS] alternative called [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
 
 ### [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) 
 
@@ -55,6 +60,12 @@
 ### [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 
 ### [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
+
+### [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US)
+> There is a [FOSS] alternative called [Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock/)
+
+### [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US&gl=US)
+> The is a [FOSS] alternative called [Simple Keyboard](https://f-droid.org/en/packages/com.simplemobiletools.keyboard/)
 
 # Social Media:
 
@@ -78,7 +89,7 @@
 
 ### Instagram:
 
-### Normal instagram doenst have material you, so use [Instander](https://thedise.me/instander/)
+### Normal instagram doesn't have material you, so use [Instander](https://thedise.me/instander/)
 ~ Requested by Ayyndrew :)
 
 # FOSS/Open-Source Apps:
