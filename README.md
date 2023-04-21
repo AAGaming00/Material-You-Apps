@@ -3,9 +3,12 @@
 ![2021-05-19-image-12-76806682](https://user-images.githubusercontent.com/123305689/233742561-55d6732a-5513-43b0-9304-e46a99b30d02.jpg)
 
 
-# **A list of material you apps and software for android!** (☕ = awesome/some of my favorites!) ([FOSS 🍵] = Free and Open-Source!)
+# **A list of material you apps and software for android!** 
+
 
 ### Inspired by [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
+
+### (☕ = awesome/some of my favorites!) ([FOSS 🍵] = Free and Open-Source!)
 
 # Launchers:
 
@@ -42,8 +45,7 @@
 
 # Widgets:
 
-### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED! THEY COST MONEY BUT ARE WORTH IT!
-
+### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED! (They cost money!)
 ### ☕ [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
 
