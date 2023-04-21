@@ -3,7 +3,7 @@
 ![2021-05-19-image-12-76806682](https://user-images.githubusercontent.com/123305689/233742561-55d6732a-5513-43b0-9304-e46a99b30d02.jpg)
 
 
-# **A list of material you apps and software for android!** 
+# **A material you apps list! [.-.]** 
 
 
 ### Inspired by [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
