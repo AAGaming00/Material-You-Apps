@@ -92,6 +92,9 @@
 ### Normal instagram doesn't have material you, so use [Instander](https://thedise.me/instander/)
 ~ Requested by Ayyndrew :)
 
+### YT Music:
+### Normal YT music doesn't have Material you + ads. so instead use [FOSS] [InnerTune](https://github.com/z-huang/InnerTune) which is YT Music, without ads + beautiful design
+
 # FOSS/Open-Source Apps:
 
 ### ☕ [FOSS] [Droid-ify](https://github.com/Iamlooker/Droid-ify)
@@ -157,13 +160,14 @@
 ### ☕ [FOSS] [YTDLnis](https://github.com/deniscerri/ytdlnis)
 > Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
-### ☕ [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
+### ☕ [FOSS] [InnerTune](https://github.com/z-huang/InnerTune)
+> > YT Music, without ads + beautiful design
+
+### [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
 > Local music player with material you!
 
 ### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 > beautiful offline music player!
-
-### [InnerTune](https://github.com/z-huang/InnerTune)
 
 > YT Music, without ads + beautiful design
 
