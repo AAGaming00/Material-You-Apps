@@ -152,10 +152,10 @@
 # Video & Music:
 
 ### ☕ [FOSS]  [Seal](https://github.com/JunkFood02/Seal)
-> video downloader! just click share on your video, and click "seal" or "quick donwnload!" can be added to revanced by changing downloader package name to "com.junkfood.seal" (will make a tutorial soon) :)
+> video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
 
 ### ☕ [FOSS] [YTDLnis](https://github.com/deniscerri/ytdlnis)
-> Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl" (will make a tutorial soon) :)
+> Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
 ### ☕ [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
 > Local music player with material you!
