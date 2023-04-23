@@ -133,7 +133,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > outdated, but still works! use for vanced, revanced and revanced extended!
 
 
-File managers:
+# File managers:
 
 ### ☕ [FOSS 🍵] [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
 > Really nice and customizable file manager with lots of features! to get material you design use [FOSS 🍵] [MiXplorerThemeCreator](https://github.com/DerTyp7214/MixplorerThemeCreator) and use the [tutorial i made!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!)
