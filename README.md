@@ -9,10 +9,10 @@
 
 ### Inspired by [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
-### (☕ = awesome/some of my favorites!)
+### ☕ = awesome/some of my favorites!
 
 
-### ([FOSS 🍵] = Free and Open-Source!)
+### [FOSS 🍵] = Free and Open-Source!
 
 
 # Launchers:
