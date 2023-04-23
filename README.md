@@ -133,6 +133,18 @@ the light illuminated part is transparent and fade to solid (All features can me
 > outdated, but still works! use for vanced, revanced and revanced extended!
 
 
+File managers:
+
+### ☕ [FOSS 🍵] [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
+> Really nice and customizable file manager with lots of features! to get material you design use [FOSS 🍵] [MiXplorerThemeCreator](https://github.com/DerTyp7214/MixplorerThemeCreator) and use the [tutorial i made!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!)
+
+### [FOSS 🍵] [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US) 
+> like the google files app, but open-source and cleaner! (in my opinion)
+
+### [Files](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) 
+> There is a [FOSS 🍵] alternative called [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
+
+
 # Google Apps:
 
 ### [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US) 
