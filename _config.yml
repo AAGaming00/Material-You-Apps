@@ -1,1 +1,27 @@
-remote_theme: jekyll-theme-material-you
+title: Bhaskar
+markdown: kramdown
+# url: "https://github.com/TeaEndsAcronyms/Material-You-Apps"
+# baseurl: "https://github.com/TeaEndsAcronyms/Material-You-Apps"
+
+# for atom feed
+author:
+  name: Tea.
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
