@@ -5,10 +5,15 @@
 
 # **A material you apps list! [.-.]** 
 
+### [New Website (github pages)](https://teaendsacronyms.github.io/Material-You-Apps/)
 
 ### Inspired by [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
-### (☕ = awesome/some of my favorites!) ([FOSS 🍵] = Free and Open-Source!)
+### (☕ = awesome/some of my favorites!)
+
+
+### ([FOSS 🍵] = Free and Open-Source!)
+
 
 # Launchers:
 
