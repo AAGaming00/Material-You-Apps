@@ -73,10 +73,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 # Icons:
 
-### ☕ [FOSS 🍵] [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
+### /☕/ [FOSS 🍵] [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
 
-### ☕ [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
+### /☕/ [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
 > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
 
 
