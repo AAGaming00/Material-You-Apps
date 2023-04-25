@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <main class="blogfeed">
+      {% include header.html %} {% include bio.html %}
+      <section id="articles">
+        {% for post in site.posts %}
+        <!--  -->
+        {% if post.thumbnail %}
+        <article class="article">
+          <div class="article-top">
+            <div
+              class="article-thumbnail"
+              style="
+                background-image: url('{{ post.thumbnail }}');
+              "
+            >
+              <div class="article-title">
+                <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+              </div>
+            </div>
+          </div>
+          <div class="article-bottom">
+            <small class="article-date">{{post.date | date_to_string}}</small>
+            <div class="article-categories">
+              <div class="article-categories">
+                {% for c in post.categories %}
+                <h1>
+                  <a
+                    href="#!"
+                    data-base-url="{{site.baseurl}}"
+                    class="article-category"
+                    >{{c}}</a
+                  >
+                </h1>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </article>
+        {% else %}
+        <article class="article">
+          <h2 class="article-top">
+            <div class="article-title">
+              <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+            </div>
+          </h2>
+          <div class="article-bottom">
+            <small class="article-date">{{post.date | date_to_string}}</small>
+            <div class="article-categories">
+              <div class="article-categories">
+                {% for c in post.categories %}
+                <a
+                  href="#!"
+                  data-base-url="{{site.baseurl}}"
+                  class="article-category"
+                  >{{c}}</a
+                >
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </article>
+        {% endif %}
+      </section>
+      {% endfor %}
+      <!--  -->
+      {% include footer.html %}
+    </main>
+    {% include category-modal.html%}
+  </body>
+</html>

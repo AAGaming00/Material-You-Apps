@@ -1,0 +1,9 @@
+{% if page.layout == "post" %}
+<header>
+  <a class="site-title article-page" href="{{site.baseurl}}/">{{site.title}}</a>
+</header>
+{% else %}
+<header>
+  <a class="site-title" href="{{site.baseurl}}/">{{site.title}}</a>
+</header>
+{% endif %}
