@@ -1,0 +1,7 @@
+<section id="social-links">
+{% for i in site.data.author.contact %}
+  <a href="{{i.url}}" target="_blank">
+    <img src="{{site.baseurl}}/assets/icons/{{i.title}}.svg" alt="" />
+  </a>
+{%endfor%}
+</section>
