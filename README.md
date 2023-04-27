@@ -33,6 +33,9 @@
 ~ requested by Never_Sm1le ~ :)
 > Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
 
+### /🧋/ [WallYou](https://github.com/Bnyro/WallYou)
+> A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
+
 ### [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 > Really nice and unique material you wallpapers!
 
@@ -41,6 +44,9 @@
 
 ### [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 > Amazing wallpapers, with amazing and customizable animations!
+
+### [MWalls](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app&gl=US)
+> A wallpaper app that includes a lot of perfect material you walls as well as pixel stock walls!
 
 # Widgets:
 
@@ -76,6 +82,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### /☕/ [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
 > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
+
+### [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
+> Another material you icons.
 
 # File managers:
 
@@ -158,6 +167,17 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### Use /🧋/ [Moshidon](https://github.com/LucasGGamerM/moshidon)
 
+# App stores:
+
+### /☕/ /🧋/ [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
+> A F-droid (kinda like the play store but open source apps) client but with material you!
+
+### /☕/ /🧋/ [Neo Store](https://github.com/NeoApplications/Neo-Store)
+> Another really good looking f-droid client!
+
+### [Google play store](https://play.google.com/store/games)
+> Need i say more?
+
 # Video & Music:
 
 ### /☕/ /🧋/  [Seal](https://github.com/JunkFood02/Seal)
@@ -176,9 +196,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 > beautiful offline music player!
 
 # Other Apps:
-
-### /☕/ /🧋/ [Droid-ify](https://github.com/Iamlooker/Droid-ify)
-> F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS!
 
 ### /☕/ /🧋/ [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 > An open-source app for allowing root/adb apps to work without root!
@@ -200,6 +217,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### /☕/ [Bundled Notes](https://bundlednotes.com/)
  > Material you notes app, really beautiful. like amazingly fluid and amazing! (but includes a paid version)
+ 
+### /🧋/ [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
+> A material you authenticator app!
  
 ### /🧋/ [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
 > Ports Google's "Now Playing" feature to other devices! Requires [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
