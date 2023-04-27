@@ -18,14 +18,14 @@
 > extremely customizable launcher, got accuired by branch: [Nova joins branch (reddit)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 (So be careful with security) [Nova Prime (for free!) Tutorial](https://github.com/TheyEatAnything/Material-You-Apps/releases/tag/Tutorials!)
 
+### /🧋/ [Kvaesitso](https://kvaesitso.mm20.de/)
+> Unique and really cool launcher!
+
 ### [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 > niagara launcher is a minimalist launcher with really nice features! (includes a paid version)
 
 ### [Nothing Launcher 1.0.2](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) 
 > this is the only version that works for phones that isn't the nothing phone, cool if you like the nothing style!
-
-### /🧋/ [Kvaesitso](https://kvaesitso.mm20.de/)
-> Unique and really cool launcher!
 
 # Wallpapers:
 
@@ -45,6 +45,7 @@
 # Widgets:
 
 ### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED! (They cost money!)
+
 ### /☕/ [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
 
@@ -52,6 +53,9 @@
 > Unique material you inspired widgets. also contains wallpapers. Also more detailed. For example: Grabbing light
 from the sun's position and adding the light to the widgets! coulor theming for android 5+ and monet for android 12+
 the light illuminated part is transparent and fade to solid (All features can me manually customized)
+
+### /☕/ [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
+> A simle widget to get a material you google search bar! (also duck duck go, brave etc.)
 
 ### [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack)
 > The most basic and true-to-life android 12 inspired widgets!
@@ -121,8 +125,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 # Social Media:
 
+(MAY be against TOS, IM NOT RESPONSIBLE FOR ANYTHING! although you should be fine!)
+
 # Youtube:
-### Use the tutorials down bellow! (Against TOS, IM NOT RESPONSIBLE FOR A BAN! you should be okay tho!)
+### Use the tutorials down below! 
 
 ### [YT Material you (Tutorial I made) ](https://github.com/TheyEatFood/Material-You-Apps/releases)
 
@@ -169,24 +175,24 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 > beautiful offline music player!
 
-# Extra Useful Apps:
+# Other Apps:
 
 ### /☕/ /🧋/ [Droid-ify](https://github.com/Iamlooker/Droid-ify)
 > F-droid but with a material you design. MATERIAL YOU HAS TO BE ENABLED IN THE SETTINGS!
 
 ### /☕/ /🧋/ [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
-
+> An open-source app for allowing root/adb apps to work without root!
 ### /☕/ /🧋/ [Revanced Manager](https://github.com/revanced/revanced-manager) 
 > app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
 
-### /🧋/ [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG)
+### /☕/ /🧋/ [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG)
 > outdated, but still works! use for vanced, revanced and revanced extended!
+ 
+### /☕/ /🧋/ [Gallery](https://github.com/IacobIonut01/Gallery)
+> A really beautiful and amazing gallery app! better that google photos in my opinion!
 
 ###  /☕/ [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 > A counter app with really beautiful material you designs and animations!
-
-### [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
-Ports Google's "Now Playing" feature to other devices! Requires [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 
 ### /☕/ [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
 ~ Requested and created by moneytoo ~ :)
@@ -194,6 +200,9 @@ Ports Google's "Now Playing" feature to other devices! Requires [Shizuku](https:
 
 ### /☕/ [Bundled Notes](https://bundlednotes.com/)
  > Material you notes app, really beautiful. like amazingly fluid and amazing! (but includes a paid version)
+ 
+### /🧋/ [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
+> Ports Google's "Now Playing" feature to other devices! Requires [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
  
 ### /🧋/ [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
 > Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
@@ -207,14 +216,8 @@ Ports Google's "Now Playing" feature to other devices! Requires [Shizuku](https:
 ### /🧋/ [Paisa](https://github.com/RetroMusicPlayer/Paisa)
 > A material you design expense tracker!
 
-### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
-> A manager for beta programs of your apps!
-
-### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
-> podcasting app.
-
-### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-> manga reader! OwO
+### /🧋/ [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/)
+> An app with quotes and quotable text... thats it!
 
 ### /🧋/ [Compass](https://github.com/SynapseTech/Compass)
 > a very ✨beautiful✨ looking compass!
@@ -222,13 +225,28 @@ Ports Google's "Now Playing" feature to other devices! Requires [Shizuku](https:
 ### /🧋/ [Feeder](https://gitlab.com/spacecowboy/Feeder)
 > beautiful RSS feed reeder!
 
+### /🧋/ [Cofi](https://github.com/rozPierog/Cofi)
+~ Request by Rozpierog ~ :)
+> A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
+
+### /🧋/ [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki)
+> A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
+
+### [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
+> Find Specs and other useful information for your devices!
+
 ### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US)
 ~ request by mirko_ddd ~ :)
 > beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
 
-### /🧋/ [Cofi](https://github.com/rozPierog/Cofi)
-~ Request by Rozpierog ~ :)
-> A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
+### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
+> A manager for beta programs of your apps!
+
+### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+> podcasting app.
+
+### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+> manga reader! OwO [18+]
 
 # Browsers:
 
