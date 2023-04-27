@@ -9,7 +9,7 @@
 
 ### Inspiration: [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
-# Launchers:
+# 🏠 Launchers:
 
 ### /☕/ /🧋/ [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 > lawnchair is a material you launcher, its like the Pixel launcher/stock android but with more customization.
@@ -27,7 +27,7 @@
 ### [Nothing Launcher 1.0.2](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) 
 > this is the only version that works for phones that isn't the nothing phone, cool if you like the nothing style!
 
-# Wallpapers:
+# 🧱 Wallpapers:
 
 ### /☕/ /🧋/ [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)
 ~ requested by Never_Sm1le ~ :)
@@ -48,7 +48,7 @@
 ### [MWalls](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app&gl=US)
 > A wallpaper app that includes a lot of perfect material you walls as well as pixel stock walls!
 
-# Widgets:
+# 👓 Widgets:
 
 ### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED! (They cost money!)
 
@@ -75,7 +75,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app)
 > As the name suggests, pastel android 12 inspired widgets!
 
-# Icons:
+# 🎆 Icons:
 
 ### /☕/ /🧋/ [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
@@ -86,7 +86,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
 > Another material you icons.
 
-# File managers:
+# 📁 File managers:
 
 ### /☕/ /🧋/ [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
 > Really nice and customizable file manager with lots of features! to get material you design use /🧋/ [MiXplorerThemeCreator](https://github.com/DerTyp7214/MixplorerThemeCreator) and use the [tutorial i made!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!)
@@ -101,7 +101,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > There is a /🧋/ alternative called [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
 
 
-# Google Apps:
+# 🥽 Google Apps:
 
 ### [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US) 
 > There is a /🧋/ alternative (for privacy) called ["mulch"](https://gitlab.com/divested-mobile/mulch) (its also on this list)
@@ -132,42 +132,42 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US&gl=US)
 > The is a /🧋/ alternative called [Simple Keyboard](https://f-droid.org/en/packages/com.simplemobiletools.keyboard/)
 
-# Social Media:
+# 🗣️ Social Media:
 
 (MAY be against TOS, IM NOT RESPONSIBLE FOR ANYTHING! although you should be fine!)
 
-# Youtube:
+# 📺 Youtube:
 ### Use the tutorials down below! 
 
 ### [YT Material you (Tutorial I made) ](https://github.com/TheyEatFood/Material-You-Apps/releases)
 
 ### Or use: /🧋/ [LibreTube](https://github.com/libre-tube/LibreTube)
 
-# Twitter:
+# 🦜 Twitter:
 ### Use /🧋/ [revanced manager](https://github.com/revanced/revanced-manager) and follow my tutorial!
 
 ### [Twitter material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases)
 
-# Telegram:
+# 🔏 Telegram:
 ### Use /🧋/ [Telegram monet](https://github.com/c3r5b8/Telegram-Monet) and follow my tutorial!
 
 ### [Telegram material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases)
 
-# Instagram:
+# 😊 Instagram:
 ### Use [Instander](https://thedise.me/instander/)
 ~ Requested by Ayyndrew :)
 
-# YT Music:
+# 🎵 YT Music:
 ### Use /🧋/ [InnerTune](https://github.com/z-huang/InnerTune) which is YT Music, without ads + beautiful design
 
-# Reddit:
+# 📖 Reddit:
 ### Use /🧋/ [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) or /🧋/[Infinity for reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) (Its ad free reddit + material you)
 
-# Mastodon:
+# 🕶️ Mastodon:
 
 ### Use /🧋/ [Moshidon](https://github.com/LucasGGamerM/moshidon)
 
-# App stores:
+# 🏪 App stores:
 
 ### /☕/ /🧋/ [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
 > A F-droid (kinda like the play store but open source apps) client but with material you!
@@ -178,7 +178,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Google play store](https://play.google.com/store/games)
 > Need i say more?
 
-# Video & Music:
+# 🎥 Video & Music:
+
+### /☕/ /🧋/ [Spowlo](https://github.com/BobbyESP/Spowlo)
+> A really useful app, its a spotify song downloader with a material you design!
 
 ### /☕/ /🧋/  [Seal](https://github.com/JunkFood02/Seal)
 > video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
@@ -195,10 +198,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 > beautiful offline music player!
 
-# Other Apps:
+# 🛠️ Other Apps:
 
 ### /☕/ /🧋/ [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 > An open-source app for allowing root/adb apps to work without root!
+
 ### /☕/ /🧋/ [Revanced Manager](https://github.com/revanced/revanced-manager) 
 > app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
 
@@ -232,6 +236,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### /🧋/ [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/)
 > A system-wide audio prossesing engine without root. Material you has to be enabled in settings! requires [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
+
+### /🧋/ [Termux Monet](https://github.com/HardcodedCat/termux-monet)
+> A terminal emulator app with a material you design and other experimental features!
 
 ### /🧋/ [Paisa](https://github.com/RetroMusicPlayer/Paisa)
 > A material you design expense tracker!
@@ -268,7 +275,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 > manga reader! OwO [18+]
 
-# Browsers:
+# 🕸️ Browsers:
 
 ### /☕/ /🧋/ [Mulch](https://gitlab.com/divested-mobile/mulch) 
 > Chrome but open-source and with more privacy features!
@@ -279,7 +286,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### /🧋/ [Bromite](https://www.bromite.org/) 
 > i wouldnt recommend 'cause its outdated. (a security issue)
 
-# Games:
+# 🕹️ Games:
 
 ### /☕/ /🧋/ [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
