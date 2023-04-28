@@ -24,6 +24,9 @@
 ### `🧋` [Kvaesitso](https://kvaesitso.mm20.de/)
 > Unique and really cool launcher!
 
+### `🧋` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
+> A unique material you and minimal launcher!
+
 ### [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 > niagara launcher is a minimalist launcher with really nice features! (includes a paid version)
 
