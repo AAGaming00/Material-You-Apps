@@ -8,9 +8,9 @@
 ### Inspiration: [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
 
-# /`☕`/ = my favorites!
+# `☕` = my favorites!
 
-# /`🧋`/ = Open-Source!
+# `🧋` = Open-Source!
 
 # 🏠 Launchers:
 
