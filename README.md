@@ -13,7 +13,7 @@
 
 ### `🧋` = [Open-Source!](https://en.wikipedia.org/wiki/Open_source)
 
-### `🫖` = [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence) (Even if a app is abandoned/obsolent it should still work!)
+### `🫖` = [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence) (Even if a app is abandoned/obsolete it should still work!)
 
 # 🏠 Launchers:
 
