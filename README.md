@@ -234,7 +234,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `☕` `🧋` [Revanced Manager](https://github.com/revanced/revanced-manager) 
 > app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
 
-### `☕` `🧋` [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG)
+### `☕` `🧋` `🫖` [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG)
 > outdated, but still works! use for vanced, revanced and revanced extended!
  
 ### `☕` `🧋` [Gallery](https://github.com/IacobIonut01/Gallery)
