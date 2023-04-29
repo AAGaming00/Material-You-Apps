@@ -1,19 +1,18 @@
 <h1 align="center">  A Material You Apps List! ['_'] </h1>
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/123305689/235304965-b448e420-1374-40f6-8df9-e41a2bdb37ba.gif" alt="animated" width="800" />
 </p>
 
 ### Inspiration: [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
-# Tags
+# Need To Know: Tags!
 
-### `☕` - A specialty tag, the bests in my opinion!
+### `☕` - A specialty tag, the best apps in my opinion!
 
 ### `🧋` - [Open-Source!](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code%20that%20is%20made%20freely%20available%20for%20possible%20modification%20and%20redistribution.)
 
-### `🫖` - [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence#:~:text=Obsolete%20also%20refers%20to%20something%20that%20is%20already%20disused%20or%20discarded%2C%20or%20antiquated.) (Even if a app is abandoned/obsolete it should still work!)
+### `🫖` - [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence#:~:text=Obsolete%20also%20refers%20to%20something%20that%20is%20already%20disused%20or%20discarded%2C%20or%20antiquated.) (Even if a app is abandoned/obsolete it should still work! I will count it if the apps's latest version is 1+ months old, until they make a new update.)
 
 # 🏠 Launchers:
 
@@ -198,7 +197,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `☕` `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis)
 > Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
-### `☕` `🧋` [InnerTune](https://github.com/z-huang/InnerTune)
+### `☕` `🧋` `🫖` [InnerTune](https://github.com/z-huang/InnerTune)
 > YT Music, without ads + beautiful design
 
 ### `🧋` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
@@ -259,7 +258,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `🧋` [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
 > Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
 
-### `🧋` [ReadYou](https://github.com/Ashinch/ReadYou)
+### `🧋` `🫖` [ReadYou](https://github.com/Ashinch/ReadYou)
 > A beautiful RSS Reader!
 
 ### `🧋` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/)
@@ -287,6 +286,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `🧋` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki)
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
 
+### [Material You Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
+> A Dynamic Island (announced with the iphone 14) but with material you!
+
 ### [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
 > Find Specs and other useful information for your devices!
 
@@ -302,3 +304,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 > manga reader! OwO [18+]
+
+### [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+> A material you calendar!
+
+# The End so far ;-)
