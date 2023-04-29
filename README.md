@@ -308,4 +308,4 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 > A material you calendar!
 
-# The End so far ;-)
+# The End... so far! ;-)
