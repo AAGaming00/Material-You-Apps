@@ -10,9 +10,9 @@
 
 ### `☕` - A specialty tag, the best apps in my opinion!
 
-### `🧋` - [Open-Source!](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code%20that%20is%20made%20freely%20available%20for%20possible%20modification%20and%20redistribution.)
+### `🧋` - [Open-Source! (Click for definition!)](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code%20that%20is%20made%20freely%20available%20for%20possible%20modification%20and%20redistribution.)
 
-### `🫖` - [Old. (kinda)](Even if a app is Old it should work, sometimes be better than new alternatives! I will count it if the app's latest version is 1+ month(s) old.)
+### `🫖` - Old. (kinda) Even if a app is Old it should work, sometimes be better than new alternatives! I will count it if the app's latest version is 1+ month(s) old.
 
 # 🏠 Launchers:
 
