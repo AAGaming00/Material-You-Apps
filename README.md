@@ -9,11 +9,11 @@
 
 # Tags
 
-### `☕` = my favorites!
+### `☕` - A specialty tag, the bests in my opinion!
 
-### `🧋` = [Open-Source!](https://en.wikipedia.org/wiki/Open_source)
+### `🧋` - [Open-Source!](https://en.wikipedia.org/wiki/Open_source)
 
-### `🫖` = [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence) (Even if a app is abandoned/obsolete it should still work!)
+### `🫖` - [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence) (Even if a app is abandoned/obsolete it should still work!)
 
 # 🏠 Launchers:
 
