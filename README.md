@@ -7,10 +7,13 @@
 
 ### Inspiration: [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
+# Tags
 
-# `☕` = my favorites!
+### `☕` = my favorites!
 
-# `🧋` = Open-Source!
+### `🧋` = [Open-Source!](https://en.wikipedia.org/wiki/Open_source)
+
+### `🫖` = [Obsolent.](https://en.wikipedia.org/wiki/Obsolescence) (Even if a app is abandoned/obsolent it should still work!)
 
 # 🏠 Launchers:
 
@@ -27,11 +30,11 @@
 ### `🧋` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
 > A unique material you and minimal launcher!
 
+### `🫖` [Nothing Launcher 1.0.2](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) 
+> this is the only version that works for phones that isn't the nothing phone, cool if you like the nothing style!
+
 ### [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 > niagara launcher is a minimalist launcher with really nice features! (includes a paid version)
-
-### [Nothing Launcher 1.0.2](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) 
-> this is the only version that works for phones that isn't the nothing phone, cool if you like the nothing style!
 
 # 🧱 Wallpapers:
 
@@ -178,7 +181,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `☕` `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
 > A F-droid (kinda like the play store but open source apps) client but with material you!
 
-### `☕` `🧋` [Neo Store](https://github.com/NeoApplications/Neo-Store)
+### `☕` `🧋` `🫖` [Neo Store](https://github.com/NeoApplications/Neo-Store)
 > Another really good looking f-droid client!
 
 ### [Google play store](https://play.google.com/store/games)
@@ -186,7 +189,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 # 🎥 Video & Music:
 
-### `☕` `🧋` [Spowlo](https://github.com/BobbyESP/Spowlo)
+### `☕` `🧋` `🫖` [Spowlo](https://github.com/BobbyESP/Spowlo)
 > A really useful app, its a spotify song downloader with a material you design!
 
 ### `☕` `🧋`  [Seal](https://github.com/JunkFood02/Seal)
@@ -203,6 +206,25 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 > beautiful offline music player!
+
+# 🕸️ Browsers:
+
+### `☕` `🧋` [Mulch](https://gitlab.com/divested-mobile/mulch) 
+> Chrome but open-source and with more privacy features!
+
+### `☕` `🧋` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/)
+> open-source browser and with features for privacy!
+
+### `🧋` `🫖` [Bromite](https://www.bromite.org/) 
+> i wouldnt recommend 'cause its outdated. (a security issue)
+
+# 🕹️ Games:
+
+### `☕` `🧋` [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
+> Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
+
+### `🧋` [Trivia You](https://f-droid.org/packages/com.bnyro.trivia/)
+> A fun trivia game!
 
 # 🛠️ Other Apps:
 
@@ -280,22 +302,3 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 > manga reader! OwO [18+]
-
-# 🕸️ Browsers:
-
-### `☕` `🧋` [Mulch](https://gitlab.com/divested-mobile/mulch) 
-> Chrome but open-source and with more privacy features!
-
-### `☕` `🧋` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/)
-> open-source browser and with features for privacy!
-
-### `🧋` [Bromite](https://www.bromite.org/) 
-> i wouldnt recommend 'cause its outdated. (a security issue)
-
-# 🕹️ Games:
-
-### `☕` `🧋` [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
-> Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
-
-### `🧋` [Trivia You](https://f-droid.org/packages/com.bnyro.trivia/)
-> A fun trivia game!
