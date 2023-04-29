@@ -169,7 +169,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### Use `🧋` [InnerTune](https://github.com/z-huang/InnerTune) which is YT Music, without ads + beautiful design
 
 # 📖 Reddit:
-### Use `🧋` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) or /`🧋`/[Infinity for reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) (Its ad free reddit + material you)
+### Use `🧋` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) or `🧋` [Infinity for reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) (Its ad free reddit + material you)
 
 # 🕶️ Mastodon:
 
@@ -219,7 +219,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 # 🕹️ Games:
 
-### `☕` `🧋` [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
+### `☕` `🧋` `🫖` [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
 
 ### `🧋` [Trivia You](https://f-droid.org/packages/com.bnyro.trivia/)
