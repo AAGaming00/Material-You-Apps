@@ -1,9 +1,9 @@
 <h1 align="center">  A Material You Apps List! ['_'] </h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/123305689/235304328-93bafe33-6ea5-416e-a7ca-cbd44248ffc7.mp4" alt="animated" />
-</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/123305689/235304965-b448e420-1374-40f6-8df9-e41a2bdb37ba.gif" alt="animated" width="800" />
+</p>
 
 ### Inspiration: [nyas1's material you List!](https://github.com/nyas1/Material-You-app-list)
 
