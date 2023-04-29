@@ -12,7 +12,7 @@
 
 ### `🧋` - [Open-Source!](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code%20that%20is%20made%20freely%20available%20for%20possible%20modification%20and%20redistribution.)
 
-### `🫖` - [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence#:~:text=Obsolete%20also%20refers%20to%20something%20that%20is%20already%20disused%20or%20discarded%2C%20or%20antiquated.) (Even if a app is abandoned/obsolete it should still work! I will count it if the apps's latest version is 1+ months old, until they make a new update.)
+### `🫖` - [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence#:~:text=Obsolete%20also%20refers%20to%20something%20that%20is%20already%20disused%20or%20discarded%2C%20or%20antiquated.) (Even if a app is abandoned/obsolete it should still work! I will count it if the app's latest version is 1+ months old, until they make a new update.)
 
 # 🏠 Launchers:
 
