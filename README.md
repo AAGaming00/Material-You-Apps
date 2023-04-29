@@ -12,7 +12,7 @@
 
 ### `🧋` - [Open-Source!](https://en.wikipedia.org/wiki/Open_source#:~:text=Open%20source%20is%20source%20code%20that%20is%20made%20freely%20available%20for%20possible%20modification%20and%20redistribution.)
 
-### `🫖` - [Obsolete.](https://en.wikipedia.org/wiki/Obsolescence#:~:text=Obsolete%20also%20refers%20to%20something%20that%20is%20already%20disused%20or%20discarded%2C%20or%20antiquated.) (Even if a app is abandoned/obsolete it should still work! I will count it if the app's latest version is 1+ months old, until they make a new update.)
+### `🫖` - [Old. (kinda)](Even if a app is Old it should work, sometimes be better than new alternatives! I will count it if the app's latest version is 1+ month(s) old.)
 
 # 🏠 Launchers:
 
@@ -44,23 +44,23 @@
 ### `🧋` [WallYou](https://github.com/Bnyro/WallYou)
 > A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
 
-### [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
-> Really nice and unique material you wallpapers!
-
-### [PaperSplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
+### `🫖` [PaperSplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
 > Nice looking app! (but includes a pro version)
 
-### [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
+### `🫖` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 > Amazing wallpapers, with amazing and customizable animations!
 
-### [MWalls](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app&gl=US)
+### `🫖` [MWalls](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app&gl=US)
 > A wallpaper app that includes a lot of perfect material you walls as well as pixel stock walls!
+
+### [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
+> Really nice and unique material you wallpapers!
 
 # 👓 Widgets:
 
 ### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED! (They cost money!)
 
-### `☕` [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
+### `☕` `🫖` [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
 
 ### `☕` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept)
@@ -71,16 +71,16 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `☕` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
 > A simle widget to get a material you google search bar! (also duck duck go, brave etc.)
 
-### [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack)
+### `🫖` [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack)
 > The most basic and true-to-life android 12 inspired widgets!
 
-### [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app)
+### `🫖` [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app)
 > interchangeable android and ios widgets!
 
-### [MaterialWho? KWGT](https://play.google.com/store/apps/details?id=com.dosartsmtrlwho.widgets)
+### `🫖` [MaterialWho? KWGT](https://play.google.com/store/apps/details?id=com.dosartsmtrlwho.widgets)
 > Material you inspired widgets, that are symmetrical? cool...
 
-### [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app)
+### `🫖` [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app)
 > As the name suggests, pastel android 12 inspired widgets!
 
 # 🎆 Icons:
@@ -102,7 +102,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `🧋` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US) 
 > like the google files app, but open-source and cleaner! (in my opinion)
 
-### `🧋` [File Explorer](https://github.com/Raival-e/File-Explorer)
+### `🧋` `🫖` [File Explorer](https://github.com/Raival-e/File-Explorer)
 > A full-featured file manager with Material You colors
 
 ### [Google Files](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) 
@@ -166,7 +166,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ~ Requested by Ayyndrew :)
 
 # 🎵 YT Music:
-### Use `🧋` [InnerTune](https://github.com/z-huang/InnerTune) which is YT Music, without ads + beautiful design
+### Use `🧋` `🫖` [InnerTune](https://github.com/z-huang/InnerTune) which is YT Music, without ads + beautiful design
 
 # 📖 Reddit:
 ### Use `🧋` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) or `🧋` [Infinity for reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) (Its ad free reddit + material you)
@@ -246,7 +246,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ~ Requested and created by moneytoo ~ :)
 > really cool weather app, with a material you design!
 
-### `☕` [Bundled Notes](https://bundlednotes.com/)
+### `☕` `🫖` [Bundled Notes](https://bundlednotes.com/)
  > Material you notes app, really beautiful. like amazingly fluid and amazing! (but includes a paid version)
  
 ### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
@@ -273,7 +273,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `🧋` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/)
 > An app with quotes and quotable text... thats it!
 
-### `🧋` [Compass](https://github.com/SynapseTech/Compass)
+### `🧋` `🫖` [Compass](https://github.com/SynapseTech/Compass)
 > a very ✨beautiful✨ looking compass!
 
 ### `🧋` [Feeder](https://gitlab.com/spacecowboy/Feeder)
@@ -283,14 +283,14 @@ the light illuminated part is transparent and fade to solid (All features can me
 ~ Request by Rozpierog ~ :)
 > A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
 
-### `🧋` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki)
+### `🧋` `🫖` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki)
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
+
+### `🫖` [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
+> Find Specs and other useful information for your devices!
 
 ### [Material You Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 > A Dynamic Island (announced with the iphone 14) but with material you!
-
-### [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
-> Find Specs and other useful information for your devices!
 
 ### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US)
 ~ request by mirko_ddd ~ :)
