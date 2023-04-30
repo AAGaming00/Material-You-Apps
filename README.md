@@ -254,7 +254,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ~ Requested and created by moneytoo ~ :)
 > really cool weather app, with a material you design!
 
-### [Nothing Weather](t.me/waifupx_official/205)
+### [Nothing Weather](https://t.me/waifupx_official/205)
 > A Port of the Nothing Weather app, from the nothing phone! (its a telegram link, so you have to install telegram first)
 
 # <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48">
