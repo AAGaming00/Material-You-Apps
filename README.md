@@ -182,7 +182,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### Use `🧋` [Moshidon](https://github.com/LucasGGamerM/moshidon)
 
-# 💬 Discord 🗨️
+# 💬 Discord 💬
 
 ### Use `🧋` [OpenCord](https://github.com/MateriiApps/OpenCord)
 > Only thing you cant to is send direct messages... But it looks amazing!
@@ -200,7 +200,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Google play store](https://play.google.com/store/games)
 > Need i say more?
 
-# 🎥 Video & Music 🎼
+# 🎥 Media 🎼
 
 ### `☕` `🧋`  [Spowlo](https://github.com/BobbyESP/Spowlo)
 > A really useful app, its a spotify song downloader with a material you design!
@@ -257,7 +257,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Nothing Weather](t.me/waifupx_official/205)
 > A Port of the Nothing Weather app, from the nothing phone! (its a telegram link, so you have to install telegram first)
 
-# <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku Required <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48">
+# <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48">
 
 ### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted.
 
@@ -273,7 +273,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `🧋` `🍵` [DarQ](https://github.com/KieronQuinn/DarQ)
 > Allows you to use dark-mode on non-dark mode supported apps!
 
-# 🛠️ Uncategorized 🛠️
+# 🛠️ No Category 🛠️
 
 ### `☕` `🧋` [Revanced Manager](https://github.com/revanced/revanced-manager) 
 > app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
