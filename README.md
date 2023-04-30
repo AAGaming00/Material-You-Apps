@@ -286,6 +286,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `🧋` `🫖` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki)
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
 
+### `🧋` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/)
+> A really nice and useful app manager, great for advanced users!
+
 ### `🫖` [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
 > Find Specs and other useful information for your devices!
 
@@ -307,5 +310,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 > A material you calendar!
+
 
 # The End... so far! ;-)
