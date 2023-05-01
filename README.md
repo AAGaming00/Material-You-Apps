@@ -67,6 +67,9 @@
 
 ### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED FOR MOST! (They cost money!)
 
+### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
+Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
+
 ### `☕`  [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
 
@@ -259,7 +262,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A Port of the Nothing Weather app, from the nothing phone! (its a telegram link, so you have to install telegram first)
 
 # <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
-### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted.
+### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted **[AND FOLLOW THS TUTORIAL](https://shizuku.rikka.app/guide/setup/#start-via-wireless-debugging)**.
 
 ### `☕` `🍵`  `🧋` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
 > Ports Google's "Now Playing" feature to other devices!
@@ -273,6 +276,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `🧋` `🍵` [DarQ](https://github.com/KieronQuinn/DarQ)
 > Allows you to use dark-mode on non-dark mode supported apps!
 
+### `🧋` `🍵` [Inure](https://github.com/Hamza417/Inure)
+> A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU, [USE THIS TUTORIAL I MADE](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Material-you-Tutorials-2.0)**
+
 # 🛠️ No Category
 
 ### `☕` `🧋` [Revanced Manager](https://github.com/revanced/revanced-manager) 
@@ -283,6 +289,9 @@ the light illuminated part is transparent and fade to solid (All features can me
  
 ### `☕` `🧋` [Gallery](https://github.com/IacobIonut01/Gallery)
 > A really beautiful and amazing gallery app! better that google photos in my opinion!
+
+### `☕` `🧋` [Scheduler](https://github.com/dgudim/Scheduler)
+> A really nice looking material you Calender/Schedular app!
 
 ###  `☕` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 > A counter app with really beautiful material you designs and animations!
@@ -332,6 +341,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### `🧋` [KDE Connect](https://invent.kde.org/network/kdeconnect-android)
 > Connect your other devices for amazing feature! (for example: cliboard sync, remote control, share, etc.)
+
+### `🧋` [Unnito](https://github.com/sadellie/unitto)
+> A material you calculator and converter!
 
 ###  [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
 > Find Specs and other useful information for your devices!
