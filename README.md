@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/123305689/235304965-b448e420-1374-40f6-8df9-e41a2bdb37ba.gif" alt="animated" width="800" />
 </p>
 
-# Before You Start: Tags!
+## Before You Start: Tags!
 
 ### `☕` - A specialty tag, the best apps in my opinion!
 
@@ -90,7 +90,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ###  [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app)
 > As the name suggests, pastel android 12 inspired widgets!
 
-# <img src="https://user-images.githubusercontent.com/123305689/235376114-4d8c842a-0ec7-4f17-8e1c-fa4d9560c940.png" width="48"> Icons
+# 💠 Icons
 
 ### `☕` `🧋` [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
@@ -101,7 +101,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
 > Another material you icons.
 
-# <img src="https://user-images.githubusercontent.com/123305689/235375820-777c5e7c-ad48-4a00-8436-f236558335dd.png" width="48"> File managers
+# 🗃️ File managers
 
 ### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
 > Really nice and customizable file manager with lots of features! to get material you design use /`🧋`/ [MiXplorerThemeCreator](https://github.com/DerTyp7214/MixplorerThemeCreator) and use the [tutorial i made!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!)
