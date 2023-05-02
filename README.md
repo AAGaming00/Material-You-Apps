@@ -21,7 +21,7 @@
 
 ### `☕` [Nova launcher 8 (beta versions!)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
 > extremely customizable launcher, got accuired by branch: [Nova joins branch (reddit)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
-(So be careful with security) [Nova Prime (for free!) Tutorial](https://github.com/TheyEatAnything/Material-You-Apps/releases/tag/Tutorials!)
+(So be careful with security) [Nova Prime (for free!) Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Material-you-Tutorials-2.0)
 
 ### `🧋` [Kvaesitso](https://kvaesitso.mm20.de/)
 > Unique and really cool launcher!
