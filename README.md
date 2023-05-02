@@ -6,6 +6,8 @@
   <img src="https://user-images.githubusercontent.com/123305689/235304965-b448e420-1374-40f6-8df9-e41a2bdb37ba.gif" alt="animated" width="800" />
 </p>
 
+**Expect less updates & app additions... 'cause im making an HTML website for this Repo!**
+
 ## Before You Start: Tags!
 
 ### `☕` - A specialty tag, the best apps in my opinion!
@@ -14,7 +16,7 @@
 
 ### `🍵` - Needs Aditional Steps!
 
-# 🏠 Launchers
+# |🏠 Launchers
 
 ### `☕` `🧋` [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 > lawnchair is a material you launcher, its like the Pixel launcher/stock android but with more customization.
@@ -35,7 +37,7 @@
 ### [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 > niagara launcher is a minimalist launcher with really nice features!
 
-# 🌆 Wallpapers
+# |🌆 Wallpapers
 
 ### `☕` `🧋` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)
 ~ requested by Never_Sm1le ~ :)
@@ -63,7 +65,7 @@
 ### [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 > Really nice and unique material you wallpapers!
 
-# 🧱 Widgets
+# |🧱 Widgets
 
 ### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED FOR MOST! (They cost money!)
 
@@ -93,7 +95,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ###  [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app)
 > As the name suggests, pastel android 12 inspired widgets!
 
-# 💠 Icons
+# |💠 Icons
 
 ### `☕` `🧋` [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
@@ -104,7 +106,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
 > Another material you icons.
 
-# 🗃️ File managers
+# | 🗃️ File managers
 
 ### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
 > Really nice and customizable file manager with lots of features! to get material you design use /`🧋`/ [MiXplorerThemeCreator](https://github.com/DerTyp7214/MixplorerThemeCreator) and use the [tutorial i made!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!)
@@ -119,7 +121,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > There is a `🧋` alternative called [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
 
 
-# <img src="https://user-images.githubusercontent.com/123305689/235375897-895da42d-1c51-4a88-8ed5-4cd8dcd0b311.png" width="48"> Google
+# | <img src="https://user-images.githubusercontent.com/123305689/235375897-895da42d-1c51-4a88-8ed5-4cd8dcd0b311.png" width="48"> Google
 
 ### [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US) 
 > There is a `🧋` alternative (for privacy) called ["mulch"](https://gitlab.com/divested-mobile/mulch) (its also on this list)
@@ -150,7 +152,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US&gl=US)
 > The is a `🧋` alternative called [Simple Keyboard](https://f-droid.org/en/packages/com.simplemobiletools.keyboard/)
 
-# <img src="https://user-images.githubusercontent.com/123305689/235375741-8a7998bb-da7e-4c84-a519-b8d6d6f49b79.png" width="48"> Youtube 
+# | <img src="https://user-images.githubusercontent.com/123305689/235375741-8a7998bb-da7e-4c84-a519-b8d6d6f49b79.png" width="48"> Youtube 
 
 ### `🍵` Use the tutorial(s) down below! 
 
@@ -158,42 +160,42 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### Or use: `🧋` [LibreTube](https://github.com/libre-tube/LibreTube)
 
-# <img src="https://user-images.githubusercontent.com/123305689/235360036-23fc8541-676b-4390-be6e-6ababf0a6811.png" width="48"> Twitter 
+# | <img src="https://user-images.githubusercontent.com/123305689/235360036-23fc8541-676b-4390-be6e-6ababf0a6811.png" width="48"> Twitter 
 ### `🍵` Use the tutorial(s) down below! 
 
 ### [Twitter material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases)
 
-# <img src="https://user-images.githubusercontent.com/123305689/235372718-63e99b46-359b-49df-9cca-a7d649d6693e.png" width="48"> Telegram 
+# | <img src="https://user-images.githubusercontent.com/123305689/235372718-63e99b46-359b-49df-9cca-a7d649d6693e.png" width="48"> Telegram 
 
 ### `🍵` Use the tutorial(s) down below! 
 
 ### [Telegram material you (Tutorial I made)](https://github.com/TheyEatFood/Material-You-Apps/releases)
 
-# <img src="https://user-images.githubusercontent.com/123305689/235375691-41c64995-4cc7-4507-a0a8-27bfc97ca879.png" width="48"> Instagram
+# | <img src="https://user-images.githubusercontent.com/123305689/235375691-41c64995-4cc7-4507-a0a8-27bfc97ca879.png" width="48"> Instagram
 
 ### [Instander](https://thedise.me/instander/)
 ~ Requested by Ayyndrew :)
 
-# <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music 
+# | <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music 
 
 ### `🧋`  [InnerTune](https://github.com/z-huang/InnerTune) which is YT Music, without ads + beautiful design
 
-# <img src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png" width="48"> Reddit
+# | <img src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png" width="48"> Reddit
 
 ### `🧋` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) or `🧋` [Infinity for reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) (Its ad free reddit + material you)
 
-# <img src="https://user-images.githubusercontent.com/123305689/235372629-9feb58c0-12c6-4bac-b545-b2e3b2f2c074.png" width="48"> Mastodon
+# | <img src="https://user-images.githubusercontent.com/123305689/235372629-9feb58c0-12c6-4bac-b545-b2e3b2f2c074.png" width="48"> Mastodon
 
 ### Use `🧋` [Moshidon](https://github.com/LucasGGamerM/moshidon)
 
-# <img src="https://user-images.githubusercontent.com/123305689/235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05e.png" width="48"> Discord
+# | <img src="https://user-images.githubusercontent.com/123305689/235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05e.png" width="48">Discord
 
 ### Use `🧋` [OpenCord](https://github.com/MateriiApps/OpenCord)
 > Only thing you cant to is send direct messages... But it looks amazing!
 
 # 
 
-# 🏪 App Stores
+# | 🏪 App Stores
 
 ### `☕` `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
 > A F-droid (kinda like the play store but open source apps) client but with material you!
@@ -204,7 +206,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Google play store](https://play.google.com/store/games)
 > Need i say more?
 
-# 🎥 Media
+# | 🎥 Media
 
 ### `☕` `🧋`  [Spowlo](https://github.com/BobbyESP/Spowlo)
 > A really useful app, its a spotify song downloader with a material you design!
@@ -224,7 +226,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 > beautiful offline music player!
 
-# 🌐 Browsers
+# | 🌐 Browsers
 
 ### `☕` `🧋` [Mulch](https://gitlab.com/divested-mobile/mulch) 
 > Chrome but open-source and with more privacy features!
@@ -241,7 +243,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
 > A feature-rich Chromium browser!
 
-# 🕹️ Games
+# | 🕹️ Games
 
 ### `☕` `🧋`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
@@ -262,7 +264,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A Port of the Nothing Weather app, from the nothing phone! (its a telegram link, so you have to install telegram first)
 
 # <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
-### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted **[AND FOLLOW THS TUTORIAL](https://shizuku.rikka.app/guide/setup/#start-via-wireless-debugging)**.
+### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted.
 
 ### `☕` `🍵`  `🧋` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
 > Ports Google's "Now Playing" feature to other devices!
