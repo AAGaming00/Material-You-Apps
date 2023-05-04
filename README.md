@@ -194,7 +194,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 # <img src="https://user-images.githubusercontent.com/123305689/236180632-d338cd41-6f74-448c-9bfb-05fa57110d99.png" width="48">Stack OverFlow
 
-# Use [Stack](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
+### Use [Stack](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
+> A stack overflow client with a really nice design!
 
 #  🏪 App Stores
 
@@ -268,7 +269,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A fun trivia game!
 
 ### `🧋` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku)
-> A sudoku Game But with.... obviously, matrial you.
+> A sudoku Game But with.... obviously, material you.
 
 # ⛅ Weather
 
@@ -291,6 +292,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `☕` `🍵`  `🧋` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
+### `☕` `🍵` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
+> An Amazing backup app with a beautiful deisgn. (material you has to be enabed in settings)
+
 ### `🧋` `🍵` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/)
 > A system-wide audio prossesing engine without root. Material you has to be enabled in settings!
 
@@ -300,6 +304,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 ### `🧋` `🍵` [Inure](https://github.com/Hamza417/Inure)
 > A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU, [USE THIS TUTORIAL I MADE](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Material-you-Tutorials-2.0)**
 
+### `🍵` [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps)
+> A battery manager, only down-side is that it has ads.
+
+### `🍵` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops)
+> A permission manager! (material you can be enabled from the settings!)
 
 # 📸 Galleries
 
@@ -348,6 +357,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ### `🧋` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 > A material you calendar!
+
+### `🧋` [YASNAC](https://github.com/RikkaW/YASNAC)
+> As the name implies (Yet Another SafetyNet Attestation Checker) it demonstrates the SafetyNet Attestation API,
+Which detects your devices integrity! (bootloader, root, etc)
 
 ### `🧋` [Material You Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 > A Dynamic Island (announced with the iphone 14) but with material you!
