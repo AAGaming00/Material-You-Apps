@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/123305689/235304965-b448e420-1374-40f6-8df9-e41a2bdb37ba.gif" alt="animated" width="800" />
 </p>
 
-# [New Website! ](https://teaendsacronyms.github.io/Web/)STILL IN BETA SO THERE WILL BE BUGS 
+# [New Website (beta!)](https://teaendsacronyms.github.io/Web/)
 
 
 ## Before You Start: Tags!
