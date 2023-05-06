@@ -29,7 +29,7 @@
 > Its like the Pixel launcher/stock android but with more customization.
 
 #### `☕` [Nova launcher 8 (beta versions!)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
-> extremely customizable launcher, got accuired by branch: [Nova joins branch (So be careful with security)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)<br>
+> extremely customizable launcher, got accuired by branch: [Nova joins branch (So be careful with security)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)<br> Tutorial:
 [Way to Nova Prime get nova prime for free!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0)</br>
 
 #### `🧋` [Kvaesitso](https://kvaesitso.mm20.de/)
