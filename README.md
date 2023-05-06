@@ -129,7 +129,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [GFiles](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) 
 > There is a `🧋` alternative called [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
 
-# Popular apps & Corpirations:
+# Popular apps & Corporations:
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/236181017-57066026-0279-4082-a489-1f669080b28e.png" width="48"> GApps
 
