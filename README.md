@@ -1,5 +1,5 @@
 <h1 align="center"> 
-✨Material You Apps✨
+✨ Material-You Apps
 </h1>
 
 <p align="center">
