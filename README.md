@@ -307,7 +307,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
 > nice looking weather app i guess.
 
-# <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
+## <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
 ### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted.
 
 #### `☕` `🍵`  `🧋` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
