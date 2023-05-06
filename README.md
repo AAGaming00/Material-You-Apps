@@ -1,12 +1,12 @@
 <h1 align="center">  ✨Material You Apps✨ </h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/123305689/236643664-d594e229-d57e-46c5-a6f2-4f3c49b68e3b.png" width="800">
+<img src="https://user-images.githubusercontent.com/123305689/236643733-b6f47c67-4460-4396-862f-c170e46f7590.png" width="800">
 </p>
 
 
 # Before You Start:
-
+(made by Tea. ☕)
 ## About!
 ### 1. This is a repo for apps with [google's material you design language](https://m3.material.io/) 
 ### <br> 2. But unlike other repos. this isnt **ALL** the material you apps... instead its the ones that are: useful, look beautiful and work well! (only the very best!)</br>
