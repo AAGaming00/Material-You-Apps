@@ -1,7 +1,7 @@
 <h1 align="center">  ✨Material You Apps✨ </h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/123305689/236643733-b6f47c67-4460-4396-862f-c170e46f7590.png" width="1000">
+<img src="https://user-images.githubusercontent.com/123305689/236643733-b6f47c67-4460-4396-862f-c170e46f7590.png" width="850">
 </p>
 
 
