@@ -182,6 +182,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [Motorola Messages](https://www.pling.com/p/1884299)
 
+#### [Motorola Dialer](https://www.pling.com/p/1884299)
+
 # fix for non-MY apps:
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235375741-8a7998bb-da7e-4c84-a519-b8d6d6f49b79.png" width="48"> Youtube 
