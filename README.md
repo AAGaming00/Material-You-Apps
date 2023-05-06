@@ -1,7 +1,5 @@
 <h1 align="center">  ✨ A Material You Apps List ✨ </h1>
 
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/123305689/235304965-b448e420-1374-40f6-8df9-e41a2bdb37ba.gif" alt="animated" width="800" />
 </p>
@@ -129,6 +127,17 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [GFiles](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) 
 > There is a `🧋` alternative called [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
 
+## 📝 Notes
+
+#### [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
+> Beautiful and feature packed notes app!
+
+#### [JTX Board](https://github.com/TechbeeAT/jtxBoard)
+> A notes, journals and tasks app!
+
+#### [Another Notes App](https://github.com/maltaisn/another-notes-app)
+> Oh boy! is this a new idea or has it been done a ton?
+
 # Popular apps & Corporations:
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/236181017-57066026-0279-4082-a489-1f669080b28e.png" width="48"> GApps
@@ -215,6 +224,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### Use [Stack](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 > A stack overflow client with a really nice design!
+
+#### <img src="https://user-images.githubusercontent.com/123305689/236626493-b56890e1-d0f3-45de-a1cd-ff7a77b5aa4f.jpg" width="48"> Chat GPT
+## Use [Sense](https://github.com/F0x1d/Sense)
+> An openAI client! (allows Chat GPT and Image generating)
 
 # Others:
 
@@ -372,10 +385,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/)
 > A free E-book downloader!
 
-#### [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/)
+#### `🧋` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/)
 > A simple metronome app!
 
-#### [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/)
+#### `🧋` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/)
 > A recipe manager using the mealie api!
 
 #### `🧋`  [Compass](https://github.com/SynapseTech/Compass)
@@ -410,6 +423,9 @@ Which detects your devices integrity! (bootloader, root, etc)
 #### `🧋` [ImageResizer](https://github.com/T8RIN/ImageResizer)
 > In the Name... It resizes images!
 
+#### `🧋` [LinkSheet](https://github.com/1fexd/LinkSheet)
+> Restores the old App chooser when clicking on an url!
+
 ####  [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
 > Find Specs and other useful information for your devices!
 
@@ -428,6 +444,7 @@ Which detects your devices integrity! (bootloader, root, etc)
 
 #### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 > manga reader! OwO [18+]
+
 
 
 # Star 💫 The Repo If You Liked It! <img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="125">
