@@ -226,7 +226,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A stack overflow client with a really nice design!
 
 #### <img src="https://user-images.githubusercontent.com/123305689/236626493-b56890e1-d0f3-45de-a1cd-ff7a77b5aa4f.jpg" width="48"> Chat GPT
-## Use [Sense](https://github.com/F0x1d/Sense)
+#### Use [Sense](https://github.com/F0x1d/Sense)
 > An openAI client! (allows Chat GPT and Image generating)
 
 # Others:
