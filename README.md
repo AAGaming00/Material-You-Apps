@@ -44,12 +44,12 @@
 
 ## 🌆 Walls
 
-#### `☕` `🧋` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)
-~ requested by Never_Sm1le ~ :)
-> Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
-
 #### `☕` `🧋` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX)
 > A Anime waifu wallpaper app! (0/ω＼0)
+
+####  `🧋` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)
+~ requested by Never_Sm1le ~ :)
+> Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
 
 #### `🧋` [WallYou](https://github.com/Bnyro/WallYou)
 > A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
@@ -77,16 +77,16 @@
 #### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 > Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
 
-#### `☕`  [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
-> Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
-
 #### `☕` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept)
 > Unique material you inspired widgets. also contains wallpapers. Also more detailed. For example: Grabbing light
 from the sun's position and adding the light to the widgets! coulor theming for android 5+ and monet for android 12+
 the light illuminated part is transparent and fade to solid (All features can me manually customized)
 
-#### `☕` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
+#### [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
 > A simle widget to get a material you google search bar! (also duck duck go, brave etc.)
+> 
+#### [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
+> Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
 
 ####  [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack)
 > The most basic and true-to-life android 12 inspired widgets!
@@ -137,6 +137,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [Another Notes App](https://github.com/maltaisn/another-notes-app)
 > Oh boy! is this a new idea or has it been done a ton?
+
+#### `🧋` [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
+> Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
 
 # Popular apps & Corporations:
 
@@ -234,14 +237,14 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ##  🏪 App Stores
 
-#### `☕` `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
-> A F-droid (kinda like the play store but open source apps) client but with material you!
-
 #### `☕` `🧋`  [Neo Store](https://github.com/NeoApplications/Neo-Store)
 > Another really good looking f-droid client!
 
 #### `☕` `🧋` [Revanced Manager](https://github.com/revanced/revanced-manager) 
 > app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
+
+#### `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
+> A F-droid (kinda like the play store but open source apps) client but with material you!
 
 #### [Google play store](https://play.google.com/store/games)
 > Need i say more?
@@ -251,23 +254,20 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋`  [Spowlo](https://github.com/BobbyESP/Spowlo)
 > A really useful app, its a spotify song downloader with a material you design!
 
-#### `☕` `🧋`  [Seal](https://github.com/JunkFood02/Seal)
-> video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
-
-#### `☕` `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis)
-> Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
-
 #### `☕` `🧋`  [InnerTune](https://github.com/z-huang/InnerTune)
 > YT Music, without ads + beautiful design
+
+####  `🧋`  [Seal](https://github.com/JunkFood02/Seal)
+> video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
+
+####  `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis)
+> Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
 #### `🧋` [Feeder](https://gitlab.com/spacecowboy/Feeder)
 > beautiful RSS feed reeder!
 
 #### `🧋` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) 
 > Local music player!
-
-#### [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/)
-> Another local music player!
 
 #### `🧋`  [ReadYou](https://github.com/Ashinch/ReadYou)
 > A beautiful RSS Reader!
@@ -280,6 +280,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 > beautiful local music player!
+
+#### [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/)
+> Another local music player!
 
 ##  🌐 Browsers
 
@@ -324,14 +327,14 @@ the light illuminated part is transparent and fade to solid (All features can me
 ## <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
 ### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted.
 
-#### `☕` `🍵`  `🧋` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
-> Ports Google's "Now Playing" feature to other devices!
-
 #### `☕` `🍵`  `🧋` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
 #### `☕` `🍵` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
 > An Amazing backup app with a beautiful deisgn. (material you has to be enabed in settings)
+
+#### `🧋` `🍵` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
+> Ports Google's "Now Playing" feature to other devices!
 
 #### `🧋` `🍵` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/)
 > A system-wide audio prossesing engine without root. Material you has to be enabled in settings!
@@ -361,21 +364,12 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `☕` `🧋`  [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG)
 > outdated, but still works! use for vanced, revanced and revanced extended!
-
-#### `☕` `🧋` [Scheduler](https://github.com/dgudim/Scheduler)
-> A really nice looking material you Calender/Schedular app!
-
-#### `☕` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
-> A counter app with really beautiful material you designs and animations!
-
-#### `☕`  [Bundled Notes](https://bundlednotes.com/)
- > Material you notes app, really beautiful. like amazingly fluid and amazing! (but includes a paid version)
  
 #### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
 > A material you authenticator app!
- 
-#### `🧋` [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
-> Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
+
+#### `🧋` [Scheduler](https://github.com/dgudim/Scheduler)
+> A really nice looking material you Calender/Schedular app!
 
 #### `🧋` [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 > A terminal emulator app with a material you design and other experimental features!
@@ -446,6 +440,9 @@ Which detects your devices integrity! (bootloader, root, etc)
 #### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 > manga reader! OwO [18+]
 
+
+#### [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
+> A counter app with really beautiful material you designs and animations!
 
 
 # Star 💫 The Repo If You Liked It! <img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="125">
