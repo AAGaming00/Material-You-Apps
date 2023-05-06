@@ -1,8 +1,9 @@
 <h1 align="center">  ✨Material You Apps✨ </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/123305689/235304965-b448e420-1374-40f6-8df9-e41a2bdb37ba.gif" alt="animated" width="800" />
+<img src="https://user-images.githubusercontent.com/123305689/236643664-d594e229-d57e-46c5-a6f2-4f3c49b68e3b.png" width="800">
 </p>
+
 
 # Before You Start:
 
