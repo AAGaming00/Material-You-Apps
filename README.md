@@ -1,5 +1,6 @@
 <h1 align="center"> 
-✨ Material You Apps ✨
+✨ Material You Apps ✨ <br>
+<img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ffc1cc&colorB=ffd1dc&logo=github&logoColor=ff6961"></br>
 </h1>
 
 <p align="center">
@@ -11,9 +12,12 @@
 # Before You Start:
 
 ## About!
-### 1. This is a repo for apps with [google's material you design language](https://m3.material.io/) 
-### <br> 2. But unlike other repos. this isnt **ALL** the material you apps... instead its the ones that are: useful, look beautiful and work well! (only the very best!)</br>
-### <br> 3. For a repo with most if not all material you apps check out [nyas1's List!](https://github.com/nyas1/Material-You-app-list)</br>
+- ###  This is a repo for apps with [google's material you design language](https://m3.material.io/) 
+- ###  But unlike other repos. this isnt **ALL** the material you apps... instead its the ones that are: useful, look beautiful and work well! (only the very best!)
+- ###   For a repo with most if not all material you apps check out [nyas1's List!](https://github.com/nyas1/Material-You-app-list)
+
+
+---
 
 ## Tags!
 
@@ -36,7 +40,7 @@
 
 #### `☕` [Nova launcher 8 (beta versions!)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
 > extremely customizable launcher, got accuired by branch: [Nova joins branch (So be careful with security)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)<br> Tutorial:
-[Way to Nova Prime get nova prime for free!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0)</br>
+[Way to get Nova Prime for free!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0)</br>
 
 #### `🧋` [Kvaesitso](https://kvaesitso.mm20.de/)
 > Unique and really cool launcher!
