@@ -404,6 +404,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ## 🔒 Passwords & 2FA
 
 #### `🧋` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
+> Beautiful looking 2FA app!
 
 #### [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
 > A password manager like BitWarden! **BEWARE, ITS NOT OPEN-SOURCE**
