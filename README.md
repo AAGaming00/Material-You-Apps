@@ -6,9 +6,10 @@
 <img src="https://user-images.githubusercontent.com/123305689/236643733-b6f47c67-4460-4396-862f-c170e46f7590.png" width="850">
 </p>
 
+(made by Tea. ☕)
 
 # Before You Start:
-(made by Tea. ☕)
+
 ## About!
 ### 1. This is a repo for apps with [google's material you design language](https://m3.material.io/) 
 ### <br> 2. But unlike other repos. this isnt **ALL** the material you apps... instead its the ones that are: useful, look beautiful and work well! (only the very best!)</br>
@@ -21,6 +22,8 @@
 ### 2. `🧋` - Open-Source!
 
 ### 3. `🍵` - Additional Steps Required!
+
+### 4. `🫖` - Paid Apps!
 
 # Customization:
 
@@ -66,7 +69,6 @@
 ####  [MWalls](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app&gl=US)
 > A wallpaper app that includes a lot of perfect material you walls as well as pixel stock walls!
 
-
 #### [Lamartine](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.lamartine)
 > A live Wallpaper based on some painting by Van gogh! 🧑‍🎨
 
@@ -75,48 +77,51 @@
 
 ## 🧱 Widgets
 
-### [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) AND [KWGT PRO KEY](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US&gl=US) ARE REQUIRED FOR MOST! (They cost money!)
-
 #### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 > Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
 
-#### `☕` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept)
+#### `☕` `🫖` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept)
 > Unique material you inspired widgets. also contains wallpapers. Also more detailed. For example: Grabbing light
 from the sun's position and adding the light to the widgets! coulor theming for android 5+ and monet for android 12+
 the light illuminated part is transparent and fade to solid (All features can me manually customized)
+**Requires KWGT and KWGT Pro key**
 
 #### [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
 > A simle widget to get a material you google search bar! (also duck duck go, brave etc.)
 > 
-#### [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
+#### `🫖` [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
+**Requires KWGT and KWGT Pro key**
 
-####  [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack)
+#### `🫖` [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack)
 > The most basic and true-to-life android 12 inspired widgets!
+**Requires KWGT and KWGT Pro key**
 
-####  [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app)
+#### `🫖`  [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app)
 > interchangeable android and ios widgets!
 
-####  [MaterialWho? KWGT](https://play.google.com/store/apps/details?id=com.dosartsmtrlwho.widgets)
+#### `🫖`  [MaterialWho? KWGT](https://play.google.com/store/apps/details?id=com.dosartsmtrlwho.widgets)
 > Material you inspired widgets, that are symmetrical? cool...
+**Requires KWGT and KWGT Pro key**
 
-####  [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app)
+#### `🫖`  [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app)
 > As the name suggests, pastel android 12 inspired widgets!
+**Requires KWGT and KWGT Pro key**
 
-## 💠 Icons
+## 📛 Icons
 
 #### `☕` `🧋` [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) 
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
 
-#### `☕` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
+#### `☕` `🫖` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) 
 > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
 
-#### [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
+#### `🫖` [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
 > Another material you icons.
 
 # Tools:
 
-##  🗃️ File managers
+##  📂 File managers
 
 #### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
 > Really nice and customizable file manager with lots of features! to get material you design use /`🧋`/ [MiXplorerThemeCreator](https://github.com/DerTyp7214/MixplorerThemeCreator) and use the [tutorial i made!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!)
@@ -144,7 +149,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Another Notes App](https://github.com/maltaisn/another-notes-app)
 > Oh boy! is this a new idea or has it been done a ton?
 
-## 🔢 Calculator
+## ➕ Calculator
 
 #### `☕` `🧋`  [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps)
 > Google's calculator
@@ -165,7 +170,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [GLens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 
-## 📸 Galleries
+## 🗃️ Galleries
 
 #### `☕` `🧋` [Gallery](https://github.com/IacobIonut01/Gallery)
 > A really beautiful and amazing gallery app! better that google photos in my opinion!
@@ -208,7 +213,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/236613393-bc0c38a3-7b71-4df8-9893-1a9e28602280.png" width="48"> Motorola
 
-## All motorola ports can be found in [this](https://www.pling.com/p/1884299)
+## All motorola ports can be found [here!](https://www.pling.com/p/1884299)
 
 #### [Motorola Calculator](https://www.pling.com/p/1884299)
 
@@ -243,7 +248,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ##  <img src="https://user-images.githubusercontent.com/123305689/235375691-41c64995-4cc7-4507-a0a8-27bfc97ca879.png" width="48"> Instagram
 
 #### [Instander](https://thedise.me/instander/)
-~ Requested by Ayyndrew :)
+~ Requested by Ayyndrew ~  :)
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music 
 
@@ -282,13 +287,19 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋` [Revanced Manager](https://github.com/revanced/revanced-manager) 
 > app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
 
+#### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/)
+> A free E-book downloader!
+
 #### `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
 > A F-droid (kinda like the play store but open source apps) client but with material you!
+
+#### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
+> A manager & installer for beta programs of apps!
 
 #### [Google play store](https://play.google.com/store/games)
 > Need i say more?
 
-##  🎥 Media
+##  📼 Media
 
 #### `☕` `🧋`  [Spowlo](https://github.com/BobbyESP/Spowlo)
 > A really useful app, its a spotify song downloader with a material you design!
@@ -340,7 +351,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
 > A feature-rich Chromium browser!
 
-##  🕹️ Games
+##  🎮 Games
 
 #### `☕` `🧋`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
@@ -351,7 +362,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku)
 > A sudoku Game But with.... obviously, material you.
 
-## ⛅ Weather
+## 🌡️ Weather
 
 #### `☕` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
 ~ Requested and created by moneytoo ~ :)
@@ -400,7 +411,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
 > A material you authenticator app!
 
-## 🛠️ No Category
+## 🏢 No Category
 
 #### `☕` `🧋`  [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG)
 > outdated, but still works! use for vanced, revanced and revanced extended!
@@ -413,9 +424,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🧋` [Paisa](https://github.com/RetroMusicPlayer/Paisa)
 > A material you design expense tracker!
-
-#### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/)
-> A free E-book downloader!
 
 #### `🧋` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/)
 > A simple metronome app!
@@ -462,9 +470,6 @@ Which detects your devices integrity! (bootloader, root, etc)
 ~ request by mirko_ddd ~ :)
 > beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
 
-#### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
-> A manager for beta programs of your apps!
-
 #### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 > podcasting app.
 
@@ -475,4 +480,4 @@ Which detects your devices integrity! (bootloader, root, etc)
 > A counter app with really beautiful material you designs and animations!
 
 
-# Star 💫 The Repo If You Liked It! <img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="125">
+# Star 💫 The Repo If You Liked It! <img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="100">
