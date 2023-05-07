@@ -414,7 +414,7 @@ Which detects your devices integrity! (bootloader, root, etc)
 #### `🧋` [KDE Connect](https://invent.kde.org/network/kdeconnect-android)
 > Connect your other devices for amazing feature! (for example: cliboard sync, remote control, share, etc.)
 
-#### `🧋` [Unnito](https://github.com/sadellie/unitto)
+#### `🧋` [Unitto](https://github.com/sadellie/unitto)
 > A material you calculator and converter!
 
 #### `🧋` [Obtainium](https://github.com/ImranR98/Obtainium)
