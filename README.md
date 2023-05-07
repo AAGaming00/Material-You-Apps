@@ -25,6 +25,8 @@
 
 ### 4. `🫖` - Paid Apps!
 
+---
+
 # Customization:
 
 ## 🏠 Launchers
@@ -119,6 +121,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🫖` [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
 > Another material you icons.
 
+---
+
 # Tools:
 
 ##  📂 File managers
@@ -179,6 +183,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [Google Gallery](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo)
 
+---
+
 # Popular apps & Corporations:
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/236181017-57066026-0279-4082-a489-1f669080b28e.png" width="48"> GApps
@@ -224,6 +230,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Motorola Messages](https://www.pling.com/p/1884299)
 
 #### [Motorola Dialer](https://www.pling.com/p/1884299)
+
+---
 
 # fix for non-MY apps:
 
@@ -276,6 +284,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### Use [Stack](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 > A stack overflow client with a really nice design!
 
+
+---
 
 # Others:
 
