@@ -114,7 +114,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
 > Another material you icons.
 
-# Management:
+# Tools:
 
 ##  🗃️ File managers
 
@@ -138,11 +138,41 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [JTX Board](https://github.com/TechbeeAT/jtxBoard)
 > A notes, journals and tasks app!
 
+#### `🧋` [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
+> Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
+
 #### [Another Notes App](https://github.com/maltaisn/another-notes-app)
 > Oh boy! is this a new idea or has it been done a ton?
 
-#### `🧋` [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
-> Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
+## 🔢 Calculator
+
+#### `☕` `🧋`  [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps)
+> Google's calculator
+
+#### `🧋` [Unitto](https://github.com/sadellie/unitto)
+> A material you calculator and converter!
+
+#### `🧋` [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator)
+> a simple material you calculator!
+
+## <img src="https://user-images.githubusercontent.com/123305689/236666049-c7be166e-a6ac-4f84-b970-ad172323de31.png" width="48"> Qr Scanners
+
+#### `☕` `🧋` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
+> A qr code Scanner made for pixels but works for devices with andorid 12+ [Tutorial to install](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0)
+
+#### [Qr & BarCode Scanner Plus](https://play.google.com/store/apps/details?id=com.d4rk.qrcodescanner.plus)
+> Its a QR and barcode scanner.... duh.
+
+#### [GLens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
+
+## 📸 Galleries
+
+#### `☕` `🧋` [Gallery](https://github.com/IacobIonut01/Gallery)
+> A really beautiful and amazing gallery app! better that google photos in my opinion!
+
+#### [Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
+
+#### [Google Gallery](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo)
 
 # Popular apps & Corporations:
 
@@ -152,7 +182,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [GTranslate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
+#### [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps)
+
 #### [GWallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
+
+#### [GLens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 
 #### [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts) 
 
@@ -356,22 +390,20 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🍵` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops)
 > A permission manager! (material you can be enabled from the settings!)
 
-## 📸 Galleries
+## 🔒 Passwords & 2FA
 
-#### `☕` `🧋` [Gallery](https://github.com/IacobIonut01/Gallery)
-> A really beautiful and amazing gallery app! better that google photos in my opinion!
+#### `🧋` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
 
-#### [Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
+#### [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
+> A password manager like BitWarden! **BEWARE, ITS NOT OPEN-SOURCE**
 
-#### [Google Gallery](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo)
+#### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
+> A material you authenticator app!
 
 ## 🛠️ No Category
 
 #### `☕` `🧋`  [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG)
 > outdated, but still works! use for vanced, revanced and revanced extended!
- 
-#### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
-> A material you authenticator app!
 
 #### `🧋` [Scheduler](https://github.com/dgudim/Scheduler)
 > A really nice looking material you Calender/Schedular app!
@@ -414,9 +446,6 @@ Which detects your devices integrity! (bootloader, root, etc)
 #### `🧋` [KDE Connect](https://invent.kde.org/network/kdeconnect-android)
 > Connect your other devices for amazing feature! (for example: cliboard sync, remote control, share, etc.)
 
-#### `🧋` [Unitto](https://github.com/sadellie/unitto)
-> A material you calculator and converter!
-
 #### `🧋` [Obtainium](https://github.com/ImranR98/Obtainium)
 > Brings app updates from the source automatically to update for you!
 
@@ -428,9 +457,6 @@ Which detects your devices integrity! (bootloader, root, etc)
 
 ####  [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
 > Find Specs and other useful information for your devices!
-
-#### [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
-> A password manager like BitWarden! **BEWARE, ITS NOT OPEN-SOURCE**
 
 #### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US)
 ~ request by mirko_ddd ~ :)
@@ -444,7 +470,6 @@ Which detects your devices integrity! (bootloader, root, etc)
 
 #### [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 > manga reader! OwO [18+]
-
 
 #### [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 > A counter app with really beautiful material you designs and animations!
