@@ -1,4 +1,4 @@
-<h1 align="center"> 
+﻿<h1 align="center"> 
 ✨ Material You Apps ✨ <br>
 <img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ffc1cc&colorB=ffd1dc&logo=github&logoColor=ff6961"></br>
 </h1>
@@ -59,7 +59,7 @@
 > A Anime waifu wallpaper app! (0/ω＼0)
 
 ####  `🧋` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`Github`</sup>
-~ requested by Never_Sm1le ~ :)
+- requested by Never_Sm1le ~ :)
 > Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
 
 #### `🧋` [WallYou](https://github.com/Bnyro/WallYou) <sup>`Github`</sup>
@@ -131,7 +131,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ##  📂 File managers
 
 #### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`XDA`</sup> <sup>[`Click this for MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!)</sup>
-> Really nice and customizable file manager with lots of features! to get material you design use /`🧋`/ [MiXplorerThemeCreator](https://github.com/DerTyp7214/MixplorerThemeCreator) And follow the Tutorial above!
+> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
 #### `🧋` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US) <sup>`Google Play Store`</sup>
 > like the google files app, but open-source and cleaner! (in my opinion)
@@ -157,7 +157,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > Oh boy! is this a new idea or has it been done a ton?
 
 #### [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`Github`</sup>
->   Another Material you nots app!
+>   Another Material you notes app!
 
 ## ➕ Calculator
 
@@ -246,7 +246,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🍵` Use the tutorial(s) down below! 
 
 #### <sup>[`Click this for YT Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0) </sup> <sup>`Tutorial`</sup>
-#### Or use: `🧋` [LibreTube](https://github.com/libre-tube/LibreTube) <sup> Github`</sup>
+#### Or use: `🧋` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>` Github`</sup>
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235360036-23fc8541-676b-4390-be6e-6ababf0a6811.png" width="48"> Twitter
 #### `🍵` Use the tutorial(s) down below! 
@@ -264,14 +264,14 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Instander](https://thedise.me/instander/) <sup>`Website`</sup>
 ~ Requested by Ayyndrew ~  :)
 
-##  <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music <sup>`Github`</sup>
+##  <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music 
 
 #### `🧋`  [InnerTune](https://github.com/z-huang/InnerTune) which is YT Music, without ads + beautiful design <sup>`Github`</sup>
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png" width="48"> Reddit 
 
 #### `🧋` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`Google Play Store`</sup>
- or `🧋` [Infinity for reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`Google Play Store`</sup>
+####  `🧋` [Infinity for reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`Google Play Store`</sup>
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235372629-9feb58c0-12c6-4bac-b545-b2e3b2f2c074.png" width="48"> Mastodon
 
@@ -356,7 +356,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋` [Mulch](https://gitlab.com/divested-mobile/mulch) <sup>`GitLab`</sup>
 > Chrome but open-source and with more privacy features!
 
-#### `☕` `🧋` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/) <sup>`F-Droid (or F-droid alternatives)`</sup> open-source browser and with features for privacy!
+#### `☕` `🧋` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/) <sup>`F-Droid (or F-droid alternatives)`</sup>
+> open-source browser and with features for privacy!
 
 #### `🧋`  [Bromite](https://www.bromite.org/) <sup>`Website`</sup>
 > i wouldnt recommend 'cause its outdated. (a security issue)
@@ -381,7 +382,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ## 🌡️ Weather
 
 #### `☕` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian) <sup>`Google Play Store`</sup>
-~ Requested and created by moneytoo ~ :)
+- Requested and created by moneytoo :)
 > really cool weather app, with a material you design!
 
 #### `☕` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`Telegram`</sup>
@@ -409,7 +410,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > Allows you to use dark-mode on non-dark mode supported apps!
 
 #### `🧋` `🍵` [Inure](https://github.com/Hamza417/Inure) <sup>`Github & Tutorial`</sup>
-> A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU,** <sup>[`Click this for Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0) </sup>
+> A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU: <sup>[`Click this for Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0)** </sup>
 
 #### `🍵` [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps) <sup>`Google Play Store`</sup>
 > A battery manager, only down-side is that it has ads.
@@ -452,7 +453,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > a very ✨beautiful✨ looking compass!
 
 #### `🧋` [Cofi](https://github.com/rozPierog/Cofi) <sup>`Github`</sup>
-~ Request by Rozpierog ~ :)
+- Request by Rozpierog ~ :)
 > A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
 
 #### `🧋` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/) <sup>`F-Droid (or F-droid alternatives)`</sup>
@@ -496,4 +497,4 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A counter app with really beautiful material you designs and animations!
 
 
-# Star 💫 The Repo If You Liked It! <img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="100">
+# Star 💫 The Repo If You Liked it!<img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="100">
