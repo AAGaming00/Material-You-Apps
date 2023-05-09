@@ -38,7 +38,7 @@
 #### `☕` `🧋`  [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`Website & ApkMirror`</sup>
 > Its like the Pixel launcher/stock android but with more customization.
 
-#### `☕` [Nova launcher 8 (beta versions!)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)  <sup>`ApkMirror`</sup> <sup>[`Click this for Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0)</sup>
+#### `☕` [Nova launcher 8 (beta versions!)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)  <sup>`ApkMirror`</sup> <sup>[`Click this for Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
 > extremely customizable launcher, got accuired by branch: [Nova joins branch (So be careful with security)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
 #### `🧋` [Kvaesitso](https://kvaesitso.mm20.de/) <sup>`Website`</sup>
@@ -130,7 +130,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ##  📂 File managers
 
-#### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`XDA`</sup> <sup>[`Click this for MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!)</sup>
+#### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`XDA`</sup> <sup>[`Click this for MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
 > Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
 #### `🧋` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US) <sup>`Google Play Store`</sup>
@@ -172,7 +172,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ## <img src="https://user-images.githubusercontent.com/123305689/236666049-c7be166e-a6ac-4f84-b970-ad172323de31.png" width="48"> Qr Scanners
 
-#### `☕` `🧋` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`Github`</sup> <sup>[`Click this for Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0) </sup>
+#### `☕` `🧋` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`Github`</sup> <sup>[`Click this for Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>
 > A qr code Scanner made for pixels but works for devices with andorid 12+ 
 
 #### [Qr & BarCode Scanner Plus](https://play.google.com/store/apps/details?id=com.d4rk.qrcodescanner.plus) <sup>`Google Play Store`</sup>
@@ -245,19 +245,19 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🍵` Use the tutorial(s) down below! 
 
-#### <sup>[`Click this for YT Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0) </sup> <sup>`Tutorial`</sup>
+#### <sup>[`Click this for YT Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup> <sup>`Tutorial`</sup>
 #### Or use: `🧋` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>` Github`</sup>
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235360036-23fc8541-676b-4390-be6e-6ababf0a6811.png" width="48"> Twitter
 #### `🍵` Use the tutorial(s) down below! 
 
-#### <sup>[`Click this for Twitter Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0) </sup>  <sup>`Tutorial`</sup>
+#### <sup>[`Click this for Twitter Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>  <sup>`Tutorial`</sup>
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235372718-63e99b46-359b-49df-9cca-a7d649d6693e.png" width="48"> Telegram
 
 #### `🍵` Use the tutorial(s) down below! 
 
-#### <sup>[`Click this for Telegram Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0) </sup> <sup>`Tutorial`</sup>
+#### <sup>[`Click this for Telegram Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup> <sup>`Tutorial`</sup>
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235375691-41c64995-4cc7-4507-a0a8-27bfc97ca879.png" width="48"> Instagram
 
@@ -289,7 +289,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ## <img src="https://user-images.githubusercontent.com/123305689/236180632-d338cd41-6f74-448c-9bfb-05fa57110d99.png" width="48">Stack OverFlow
 
-#### Use [Stack](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) <sup>`Github`</sup>
+#### Use [Stack](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) <sup>`Google Play Store`</sup>
 > A stack overflow client with a really nice design!
 
 
@@ -408,7 +408,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > Allows you to use dark-mode on non-dark mode supported apps!
 
 #### `🧋` `🍵` [Inure](https://github.com/Hamza417/Inure) <sup>`Github & Tutorial`</sup>
-> A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU: <sup>[`Click this for Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0)** </sup>
+> A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU: <sup>[`Click this for Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)** </sup>
 
 #### `🍵` [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps) <sup>`Google Play Store`</sup>
 > A battery manager, only down-side is that it has ads.
