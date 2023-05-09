@@ -266,7 +266,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music 
 
-#### `🧋`  [InnerTune](https://github.com/z-huang/InnerTune) which is YT Music, without ads + beautiful design <sup>`Github`</sup>
+#### `🧋`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`Github`</sup>
+> which is YT Music, without ads + beautiful design
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png" width="48"> Reddit 
 
