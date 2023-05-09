@@ -16,6 +16,16 @@
 - ###  But unlike other repos. this isnt **ALL** the material you apps... instead its the ones that are: useful, look beautiful and work well! (only the very best!)
 - ###   For a repo with most if not all material you apps check out [nyas1's List!](https://github.com/nyas1/Material-You-app-list)
 
+---
+## 🆕 Whats New!
+- Added the "Best Implementations" Section
+- Added [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
+- Added [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
+- Updated releases to v: 3.5
+- New releases design
+- Added [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
+- Made a calendar section!
+- Added a Whats new section (this lol)
 
 ---
 
@@ -30,13 +40,24 @@
 ### 4. `🫖` - Paid Apps!
 
 ---
+# Overview:
+
+## 👑 Best Design/Implementations of Material You
+#### `☕` `🧋` [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`Website & ApkMirror`</sup>
+> Its like the Pixel launcher/stock android but with more customizations.
+#### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`Google Play Store`</sup>
+> Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
+#### `☕` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) <sup>`Google Play Store`</sup>
+> A recorder app with a really beautiful design!
+#### `☕` [Sync For reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`Google Play Store`</sup>
+> A beautiful reddit client!
 
 # Customization:
 
 ## 🏠 Launchers
 
 #### `☕` `🧋`  [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`Website & ApkMirror`</sup>
-> Its like the Pixel launcher/stock android but with more customization.
+> Its like the Pixel launcher/stock android but with more customizations.
 
 #### `☕` [Nova launcher 8 (beta versions!)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)  <sup>`ApkMirror`</sup> <sup>[`Click this for Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials-3.0)</sup>
 > extremely customizable launcher, got accuired by branch: [Nova joins branch (So be careful with security)](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
@@ -56,7 +77,7 @@
 ## 🌆 Walls
 
 #### `☕` `🧋` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`Github`</sup>
-> A Anime waifu wallpaper app! (0/ω＼0)
+> An Anime waifu wallpaper app! (0/ω＼0)
 
 ####  `🧋` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`Github`</sup>
 - requested by Never_Sm1le :)
@@ -188,6 +209,21 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`Google Play Store`</sup>
 
 #### [Google Gallery](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) <sup>`Google Play Store`</sup>
+
+## 🗓️ Calendars/Planners
+
+#### `☕` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) <sup>`Google Play Store`</sup>
+> Amazing school calendar, very useful!
+
+
+#### `🧋` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`Github`</sup>
+> A really nice looking material you Calender/Scheduler app!
+
+#### `🧋` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`Github`</sup>
+> A material you calendar!
+
+
+
 
 ---
 
@@ -323,6 +359,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `☕` `🧋`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`Github`</sup>
 > YT Music, without ads + beautiful design
+> 
+#### `☕` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) <sup>`Google Play Store`</sup>
+> A recorder app with a really beautiful design!
 
 ####  `🧋`  [Seal](https://github.com/JunkFood02/Seal) <sup>`Github`</sup>
 > video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
@@ -386,7 +425,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A Port of the Nothing Weather app, from the nothing phone! (its a telegram link, so you have to install telegram first)
 
 #### [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases) <sup>`Github`</sup>
-> nice looking weather app i guess.
+> nice looking weather app i guess
+
+#### [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather) <sup>`Google Play Store`</sup>
+>A Beautifully designed weather app!
 
 ## <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
 ### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted.
@@ -431,9 +473,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋`  [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG) <sup>`Github`</sup>
 > outdated, but still works! use for vanced, revanced and revanced extended!
 
-#### `🧋` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`Github`</sup>
-> A really nice looking material you Calender/Schedular app!
-
 #### `🧋` [Termux Monet](https://github.com/HardcodedCat/termux-monet) <sup>`Github`</sup>
 > A terminal emulator app with a material you design and other experimental features!
 
@@ -455,9 +494,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🧋` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > A really nice and useful app manager, great for advanced users!
-
-#### `🧋` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`Github`</sup>
-> A material you calendar!
 
 #### `🧋` [YASNAC](https://github.com/RikkaW/YASNAC) <sup>`Github`</sup>
 > As the name implies (Yet Another SafetyNet Attestation Checker) it demonstrates the SafetyNet Attestation API, Which detects your devices integrity! (bootloader, root, etc)
