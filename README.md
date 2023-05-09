@@ -59,7 +59,7 @@
 > A Anime waifu wallpaper app! (0/ω＼0)
 
 ####  `🧋` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`Github`</sup>
-- requested by Never_Sm1le ~ :)
+- requested by Never_Sm1le :)
 > Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
 
 #### `🧋` [WallYou](https://github.com/Bnyro/WallYou) <sup>`Github`</sup>
@@ -262,7 +262,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ##  <img src="https://user-images.githubusercontent.com/123305689/235375691-41c64995-4cc7-4507-a0a8-27bfc97ca879.png" width="48"> Instagram
 
 #### [Instander](https://thedise.me/instander/) <sup>`Website`</sup>
-~ Requested by Ayyndrew ~  :)
+- Requested by Ayyndrew :)
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music 
 
@@ -359,9 +359,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > open-source browser and with features for privacy!
 
-#### `🧋`  [Bromite](https://www.bromite.org/) <sup>`Website`</sup>
-> i wouldnt recommend 'cause its outdated. (a security issue)
-
 #### [Kiwi Browser](https://github.com/kiwibrowser/src.next/releases) <sup>`Github`</sup>
 > A chromium browser with extensions!
 
@@ -453,7 +450,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > a very ✨beautiful✨ looking compass!
 
 #### `🧋` [Cofi](https://github.com/rozPierog/Cofi) <sup>`Github`</sup>
-- Request by Rozpierog ~ :)
+- Request by Rozpierog :)
 > A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
 
 #### `🧋` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/) <sup>`F-Droid (or F-droid alternatives)`</sup>
@@ -487,7 +484,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > Find Specs and other useful information for your devices!
 
 #### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US) <sup>`Google Play Store`</sup>
-~ request by mirko_ddd ~ :)
+- Request by mirko_ddd :)
 > beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
 
 #### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) <sup>`Google Play Store`</sup>
