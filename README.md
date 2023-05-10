@@ -75,6 +75,9 @@
 #### `🧋` [WallYou](https://github.com/Bnyro/WallYou) <sup>`Github`</sup>
 > A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
 
+#### [IOSXPC](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) <sup>`Google Play Store`</sup>
+>Another wallpaper app!
+
 ####  [PaperSplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash) <sup>`Google Play Store`</sup>
 > Nice looking app! (but includes a pro version)
 
@@ -182,7 +185,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ## <img src="https://user-images.githubusercontent.com/123305689/236666049-c7be166e-a6ac-4f84-b970-ad172323de31.png" width="48"> Qr Scanners
 
-#### `☕` `🧋` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`Github`</sup> <sup>[`Click this for Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>
+
+#### `☕` [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) <sup>`Google Play Store`</sup>
+> a Powerful Qr and BarCode scanner with a really nice design!
+
+#### `🧋` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`Github`</sup> <sup>[`Click this for Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>
 > A qr code Scanner made for pixels but works for devices with andorid 12+ 
 
 #### [Qr & BarCode Scanner Plus](https://play.google.com/store/apps/details?id=com.d4rk.qrcodescanner.plus) <sup>`Google Play Store`</sup>
@@ -211,8 +218,18 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`Github`</sup>
 > A material you calendar!
 
+## 💲 Finance
 
+#### [GWallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) <sup>`Google Play Store`</sup>
+>A wallet made by google.
 
+#### [BuckWheat](https://github.com/danilkinkin/buckwheat)<sup>`Github`</sup>
+>Beautiful expense manager!
+#### [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)<sup>`Github`</sup>
+> Another nice expence manager!
+
+#### `🧋` [Paisa](https://github.com/RetroMusicPlayer/Paisa) <sup>`Github`</sup>
+> A material you design expense tracker!
 
 ---
 
@@ -342,6 +359,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Google play store](https://play.google.com/store/games) <sup>`Google Play Store`</sup>
 > Need i say more?
 
+#### `🧋` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`Github`</sup>
+> Brings app updates from the source automatically to update for you!
+
 ##  📼 Media
 
 #### `☕` `🧋`  [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`Github`</sup>
@@ -379,6 +399,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > Another local music player!
+
+#### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) <sup>`Google Play Store`</sup>
+> podcasting app.
 
 ##  🌐 Browsers
 
@@ -466,9 +489,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Termux Monet](https://github.com/HardcodedCat/termux-monet) <sup>`Github`</sup>
 > A terminal emulator app with a material you design and other experimental features!
 
-#### `🧋` [Paisa](https://github.com/RetroMusicPlayer/Paisa) <sup>`Github`</sup>
-> A material you design expense tracker!
-
+#### `🧋` [BuckWheat](https://github.com/danilkinkin/buckwheat)<sup>`Github`</sup>
+> Another mateerial you expense tracker!
 #### `🧋` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > A simple metronome app!
 
@@ -494,14 +516,15 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`Website`</sup>
 > Connect your other devices for amazing feature! (for example: cliboard sync, remote control, share, etc.)
 
-#### `🧋` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`Github`</sup>
-> Brings app updates from the source automatically to update for you!
-
 #### `🧋` [ImageResizer](https://github.com/T8RIN/ImageResizer) <sup>`Github`</sup>
 > In the Name... It resizes images!
 
 #### `🧋` [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`Github`</sup>
 > Restores the old App chooser when clicking on an url!
+
+#### `🧋` [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`Google Play Store`</sup>
+> a Material you Periodic table!
+
 
 #### [Material You Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) <sup>`Github`</sup>
 > A Dynamic Island (announced with the iphone 14) but with material you!
@@ -513,24 +536,20 @@ the light illuminated part is transparent and fade to solid (All features can me
 - Request by mirko_ddd :)
 > beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
 
-#### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) <sup>`Google Play Store`</sup>
-> podcasting app.
-
 #### [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) <sup>`Google Play Store`</sup>
 > A counter app with really beautiful material you designs and animations!
-
 ---
 
 ## 🆕 Whats New!
-- Added the "Best Implementations" Section
-- Added [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
-- Added [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
-- Updated releases to v: 3.5
-- New releases design
-- Added [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
-- Made a calendar section!
-- Added a Whats new section (this lol)
-
+- Added Finance Section!
+- Added IOSXPC wallpapers!
+- Added GWallet
+- Added BuckWheat
+- Moved Paisa
+- Added GreenStash
+- Moved AntennaPod
+- Moved Obtainium
+- Added Atomic
 ---
 
 
