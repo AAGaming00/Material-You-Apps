@@ -17,17 +17,6 @@
 - ###   For a repo with most if not all material you apps check out [nyas1's List!](https://github.com/nyas1/Material-You-app-list)
 
 ---
-## 🆕 Whats New!
-- Added the "Best Implementations" Section
-- Added [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
-- Added [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
-- Updated releases to v: 3.5
-- New releases design
-- Added [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
-- Made a calendar section!
-- Added a Whats new section (this lol)
-
----
 
 ## Tags!
 
@@ -213,7 +202,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ## 🗓️ Calendars/Planners
 
 #### `☕` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) <sup>`Google Play Store`</sup>
-> Amazing school calendar, very useful!
+> Amazing school calendar, very useful!material you can be enabled in setting.
 
 
 #### `🧋` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`Github`</sup>
@@ -529,6 +518,20 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) <sup>`Google Play Store`</sup>
 > A counter app with really beautiful material you designs and animations!
+
+---
+
+## 🆕 Whats New!
+- Added the "Best Implementations" Section
+- Added [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
+- Added [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
+- Updated releases to v: 3.5
+- New releases design
+- Added [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
+- Made a calendar section!
+- Added a Whats new section (this lol)
+
+---
 
 
 # Star 💫 The Repo If You Liked it!<img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="100">
