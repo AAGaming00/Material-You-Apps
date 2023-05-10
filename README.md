@@ -223,9 +223,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [GWallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) <sup>`Google Play Store`</sup>
 >A wallet made by google.
 
-#### [BuckWheat](https://github.com/danilkinkin/buckwheat)<sup>`Github`</sup>
+#### `🧋` [BuckWheat](https://github.com/danilkinkin/buckwheat)<sup>`Github`</sup>
 >Beautiful expense manager!
-#### [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)<sup>`Github`</sup>
+#### `🧋` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)<sup>`Github`</sup>
 > Another nice expence manager!
 
 #### `🧋` [Paisa](https://github.com/RetroMusicPlayer/Paisa) <sup>`Github`</sup>
