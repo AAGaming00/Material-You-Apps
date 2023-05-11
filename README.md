@@ -20,18 +20,45 @@
 
 ## Tags!
 
-### 1. `☕` - A specialty tag, the best apps in my opinion!
+### 1. `☕` - A specialty tag, the best apps in my opinion! 
+<h4><details>
+  <summary>Click this for more information/definition 📔</summary>
+  <br>
+  <i><strong><p> > An app that in my opinion is the best!</p></strong></i></h4>
+  </details>
 
 ### 2. `🧋` - Open-Source!
+<h4><details>
+  <summary>Click this for more information/definition 📔</summary>
+    <br>
+  <i><strong><p> > An App whos code is public!</p></strong></i></h4>
+  </details>
 
 ### 3. `🍵` - Additional Steps Required!
+<h4><details>
+  <summary>Click this for more information/definition 📔</summary>
+    <br>
+  <i><strong><p> > An app that requires additional steps to install/get material you!</p></strong></i></h4>
+  </details>
 
 ### 4. `🫖` - Paid Apps!
+<h4><details>
+  <summary>Click this for more information/definition 📔</summary>
+    <br>
+  <i><strong><p> > An app that costs money!</p></strong></i></h4>
+  </details>
+
+### 5. `🥤` - Modded app.
+<h4><details>
+  <summary> Click this for more information/definition 📔</summary>
+    <br>
+  <i><strong><p> > An app that is Changed/Modified by a independent/unofficial developer!</p></strong></i></h4>
+  </details>
 
 ---
 # Overview:
 
-## 👑 Best Design/Implementations of Material You
+## 🎖️ Best Design/Implementations of Material You
 #### `☕` `🧋` [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`Website & ApkMirror`</sup>
 > Its like the Pixel launcher/stock android but with more customizations.
 #### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`Google Play Store`</sup>
@@ -189,7 +216,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) <sup>`Google Play Store`</sup>
 > a Powerful Qr and BarCode scanner with a really nice design!
 
-#### `🧋` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`Github`</sup> <sup>[`Click this for Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>
+#### `🧋` `🍵` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`Github`</sup> <sup>[`Click this for Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>
 > A qr code Scanner made for pixels but works for devices with andorid 12+ 
 
 #### [Qr & BarCode Scanner Plus](https://play.google.com/store/apps/details?id=com.d4rk.qrcodescanner.plus) <sup>`Google Play Store`</sup>
@@ -369,7 +396,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `☕` `🧋`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`Github`</sup>
 > YT Music, without ads + beautiful design
-> 
+
+#### `☕` `🥤` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`Telegram`</sup>
+> A mod that Adds material you support on VLC!
+
 #### `☕` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) <sup>`Google Play Store`</sup>
 > A recorder app with a really beautiful design!
 
@@ -386,6 +416,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > Local music player!
 
 #### `🧋`  [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`Github`</sup>
+> A Free streaming (piracy) 
 > A beautiful RSS Reader!
 
 #### `🧋` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/) <sup>`F-Droid (or F-droid alternatives)`</sup>
@@ -393,6 +424,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🧋`  [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`IzzyOnDroid (Or F-Droid & Alternatives)`</sup>
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
+
+#### `🧋` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`Github`</sup> <sup>[`Click This for a tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
+> A Free TV Show/Movie streaming (piracy) app
 
 #### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US) <sup>`Google Play Store`</sup>
 > beautiful local music player!
@@ -411,6 +445,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > open-source browser and with features for privacy!
 
+#### `🧋` `🥤` [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) <sup>`Github`</sup>
+> An updated version of the discontinued Bromite browser!
+
 #### [Kiwi Browser](https://github.com/kiwibrowser/src.next/releases) <sup>`Github`</sup>
 > A chromium browser with extensions!
 
@@ -419,6 +456,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ##  🎮 Games
 
+#### [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`Github`</sup> <sup>[Click here for supported game systems!](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>
+> An All-In-One Game emulator. doesnt have a light mode for some reason!
 #### `☕` `🧋`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
 
@@ -434,8 +473,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 - Requested and created by moneytoo :)
 > really cool weather app, with a material you design!
 
-#### `☕` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`Telegram`</sup>
-> A Port of the Nothing Weather app, from the nothing phone! (its a telegram link, so you have to install telegram first)
+#### `☕` `🥤` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`Telegram`</sup>
+> A Port of the Nothing Weather app, from the nothing phone! Modded to have material you! (its a telegram link, so you have to install telegram first)
 
 #### [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases) <sup>`Github`</sup>
 > nice looking weather app i guess
@@ -444,7 +483,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 >A Beautifully designed weather app!
 
 ## <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
-### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted.
+### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)<sup>`Google Play Store`</sup> <sup>[`Click this for tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup> unless Devices are Rooted.
 
 #### `☕` `🍵`  `🧋` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`Google Play Store`</sup>
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
@@ -452,7 +491,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🍵` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`Google Play Store`</sup>
 > An Amazing backup app with a beautiful deisgn. (material you has to be enabed in settings)
 
-#### `🧋` `🍵` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`Github`</sup>
+#### `🧋` `🍵` `🥤` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`Github`</sup>
 > Ports Google's "Now Playing" feature to other devices!
 
 #### `🧋` `🍵` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`F-Droid (or F-droid alternatives)`</sup>
@@ -475,7 +514,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) <sup>`Github`</sup>
 > Beautiful looking 2FA app!
 
-#### [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) <sup>`Google Play Store`</sup>
+#### `🧋` [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) <sup>`Github`</sup>
+> An Open-Source password manager with a nice design!
+
+#### `🥤` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) <sup>`Google Play Store`</sup>
 > A password manager like BitWarden! **BEWARE, ITS NOT OPEN-SOURCE**
 
 #### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/) <sup>`F-Droid (or F-droid alternatives)`</sup>
@@ -541,16 +583,21 @@ the light illuminated part is transparent and fade to solid (All features can me
 ---
 
 ## 🆕 Whats New!
-- Added Finance Section!
-- Added IOSXPC wallpapers!
-- Added GWallet
-- Added BuckWheat
-- Moved Paisa
-- Added GreenStash
-- Moved AntennaPod
-- Moved Obtainium
-- Added Atomic
+- Added "Better Lists" section!
+- Added VLC mod
+- Added Modded app tag
+- Changed nothing weather to have Modded tag!
+- Added CloudStream
+- Added lemuroid
+- Added simple Password!
+- Added tutorial for shizuku
 ---
+
+## 👑 Better Lists lol:
+
+- [Nyas1's List](https://github.com/nyas1/Material-You-app-list)
+
+- [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository)
 
 
 # Star 💫 The Repo If You Liked it!<img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="100">
