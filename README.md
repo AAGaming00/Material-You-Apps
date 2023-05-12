@@ -11,55 +11,57 @@
 
 # Before You Start:
 
-## About!
-- ###  This is a repo for apps with [google's material you design language](https://m3.material.io/) 
-- ###  But unlike other repos. this isnt **ALL** the material you apps... instead its the ones that are: useful, look beautiful and work well! (only the very best!)
-- ###   For a repo with most if not all material you apps check out [nyas1's List!](https://github.com/nyas1/Material-You-app-list)
+## - ❓ About!
+- ###  This is a repo for apps with [google's "Material You" design language](https://m3.material.io/) 
+- ### Unlike other repos.   **THIS IS NOT ALL** Material You apps... instead its the ones that are: 
+#### 1. Useful and work well! (only the very best!)
+#### 2. Have Material you (dynamic colouring) and optionally Material 3 design (not required)
+- ###   For a repo with most if not all material you apps check out [These!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol)
 
 ---
 
-## Tags!
+## - 🏷️ Tags! (important)
 
 ### 1. `☕` - A specialty tag, the best apps in my opinion! 
 <h4><details>
-  <summary>Click this for more information/definition 📔</summary>
+  <summary>Click this for more information/definition</summary>
   <br>
-  <i><strong><p> > An app that in my opinion is the best!</p></strong></i></h4>
+  <i><strong><p>An app that in my opinion is the best!</p></strong></i></h4>
   </details>
 
 ### 2. `🧋` - Open-Source!
 <h4><details>
-  <summary>Click this for more information/definition 📔</summary>
+  <summary>Click this for more information/definition</summary>
     <br>
-  <i><strong><p> > An App whos code is public!</p></strong></i></h4>
+  <i><strong><p>An App whos code is public!</p></strong></i></h4>
   </details>
 
 ### 3. `🍵` - Additional Steps Required!
 <h4><details>
-  <summary>Click this for more information/definition 📔</summary>
+  <summary>Click this for more information/definition</summary>
     <br>
-  <i><strong><p> > An app that requires additional steps to install/get material you!</p></strong></i></h4>
+  <i><strong><p>An app that requires additional steps to install/get material you!</p></strong></i></h4>
   </details>
 
 ### 4. `🫖` - Paid Apps!
 <h4><details>
-  <summary>Click this for more information/definition 📔</summary>
+  <summary>Click this for more information/definition</summary>
     <br>
-  <i><strong><p> > An app that costs money!</p></strong></i></h4>
+  <i><strong><p>An app that costs money!</p></strong></i></h4>
   </details>
 
 ### 5. `🥤` - Modded app.
 <h4><details>
-  <summary> Click this for more information/definition 📔</summary>
+  <summary>Click this for more information/definition</summary>
     <br>
-  <i><strong><p> > An app that is Changed/Modified by a independent/unofficial developer!</p></strong></i></h4>
+  <i><strong><p>An app that is Changed/Modified by a independent/unofficial developer!</p></strong></i></h4>
   </details>
 
 ---
-# Overview:
+# 🧾 Overview:
 
-## 🎖️ Best Design/Implementations of Material You
-#### `☕` `🧋` [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`Website & ApkMirror`</sup>
+## 🎖️ Best Implementations of Material You
+#### `☕` `🧋` [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`ApkMirror`</sup>
 > Its like the Pixel launcher/stock android but with more customizations.
 #### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`Google Play Store`</sup>
 > Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
@@ -68,7 +70,8 @@
 #### `☕` [Sync For reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`Google Play Store`</sup>
 > A beautiful reddit client!
 
-# Customization:
+---
+# 💍 Customization:
 
 ## 🏠 Launchers
 
@@ -166,7 +169,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ---
 
-# Tools:
+# ⚙️ Tools:
 
 ##  📂 File managers
 
@@ -184,7 +187,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ## 📝 Notes
 
-#### [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) <sup>`Google Play Store`</sup>
+#### `☕` `🧋` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`Github`</sup>
+> A Open source MDY Notes app! 👻
+
+#### `☕` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) <sup>`Google Play Store`</sup>
 > Beautiful and feature packed notes app!
 
 #### [JTX Board](https://github.com/TechbeeAT/jtxBoard) <sup>`Github`</sup>
@@ -258,9 +264,27 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Paisa](https://github.com/RetroMusicPlayer/Paisa) <sup>`Github`</sup>
 > A material you design expense tracker!
 
+## 🌡️ Weather
+
+#### `☕` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian) <sup>`Google Play Store`</sup>
+- Requested and created by moneytoo :)
+> really cool weather app, with a material you design!
+
+#### `☕` `🥤` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`Telegram`</sup>
+> A Port of the Nothing Weather app, from the nothing phone! Modded to have material you! (its a telegram link, so you have to install telegram first)
+
+#### [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy) <sup>`Google Play Store`</sup>
+> A weather app that uses **a lot** of text, might not be for everybody.. but hey i like it!
+
+#### [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases) <sup>`Github`</sup>
+> nice looking weather app i guess
+
+#### [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather) <sup>`Google Play Store`</sup>
+>A Beautifully designed weather app!
+
 ---
 
-# Popular apps & Corporations:
+# 🏢 Big Corporations:
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/236181017-57066026-0279-4082-a489-1f669080b28e.png" width="48"> GApps
 
@@ -308,9 +332,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ---
 
-# fix for non-MY apps:
+# 🎨 fix for non-MY apps:
 
-##  <img src="https://user-images.githubusercontent.com/123305689/235375741-8a7998bb-da7e-4c84-a519-b8d6d6f49b79.png" width="48"> Youtube
+##  <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/90dd6a7a-22c1-443a-825d-429cb18752d3" width="48"> Youtube
 
 #### `🍵` Use the tutorial(s) down below! 
 
@@ -364,35 +388,18 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ---
 
-# Others:
+# 📹 Media:
 
-##  🏪 App Stores
-
-#### `☕` `🧋`  [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`Github`</sup>
-> Another really good looking f-droid client!
-
-#### `☕` `🧋` [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`Github`</sup>
-> app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
-
-#### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`F-Droid (or F-droid alternatives)`</sup>
-> A free E-book downloader!
-
-#### `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`F-Droid (or F-droid alternatives)`</sup>
-> A F-droid (kinda like the play store but open source apps) client but with material you!
-
-#### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) <sup>`Google Play Store`</sup>
-> A manager & installer for beta programs of apps!
-
-#### [Google play store](https://play.google.com/store/games) <sup>`Google Play Store`</sup>
-> Need i say more?
-
-#### `🧋` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`Github`</sup>
-> Brings app updates from the source automatically to update for you!
-
-##  📼 Media
+## 📼 Video/Music Downloaders
 
 #### `☕` `🧋`  [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`Github`</sup>
 > A really useful app, its a spotify song downloader with a material you design!
+
+####  `🧋`  [Seal](https://github.com/JunkFood02/Seal) <sup>`Github`</sup>
+> video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
+
+####  `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis) <sup>`Github`</sup>
+> Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
 #### `☕` `🧋`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`Github`</sup>
 > YT Music, without ads + beautiful design
@@ -403,30 +410,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) <sup>`Google Play Store`</sup>
 > A recorder app with a really beautiful design!
 
-####  `🧋`  [Seal](https://github.com/JunkFood02/Seal) <sup>`Github`</sup>
-> video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
-
-####  `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis) <sup>`Github`</sup>
-> Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
-
-#### `🧋` [Feeder](https://gitlab.com/spacecowboy/Feeder) <sup>`GitLab`</sup>
-> beautiful RSS feed reeder!
+## 🎹 Local Muic Players
 
 #### `🧋` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) <sup>`Google Play Store`</sup>
 > Local music player!
-
-#### `🧋`  [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`Github`</sup>
-> A Free streaming (piracy) 
-> A beautiful RSS Reader!
-
-#### `🧋` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/) <sup>`F-Droid (or F-droid alternatives)`</sup>
-> An app with quotes and quotable text... thats it!
-
-#### `🧋`  [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`IzzyOnDroid (Or F-Droid & Alternatives)`</sup>
-> A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
-
-#### `🧋` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`Github`</sup> <sup>[`Click This for a tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
-> A Free TV Show/Movie streaming (piracy) app
 
 #### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US) <sup>`Google Play Store`</sup>
 > beautiful local music player!
@@ -434,8 +421,62 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > Another local music player!
 
+## 📺 Other types of Media
+
+#### `🧋`  [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`Github`</sup>
+> A beautiful RSS Reader!
+
+#### `🧋` [Feeder](https://gitlab.com/spacecowboy/Feeder) <sup>`GitLab`</sup>
+> beautiful RSS feed reeder!
+
+#### `🧋`  [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`IzzyOnDroid (Or F-Droid & Alternatives)`</sup>
+> A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
+
+#### `🧋` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`Github`</sup> <sup>[`Click This for a tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
+> A Free TV Show/Movie streaming (piracy) app
+
+#### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`F-Droid (or F-droid alternatives)`</sup>
+> A free E-book downloader!
+
+#### `🥤` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`Telegram`</sup>
+> A really useful equalizer, Modded to have Material you! (i use it to boost my volume!) 
+
+#### `🧋` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/) <sup>`F-Droid (or F-droid alternatives)`</sup>
+> A simple metronome app!
+
 #### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) <sup>`Google Play Store`</sup>
 > podcasting app.
+
+#### [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy) <sup>`Google Play Store`</sup>
+> A Book Tracker!
+
+---
+
+#⚡ Others:
+
+##  🏪 App Stores
+
+#### `☕` `🧋`  [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`Github`</sup>
+>  really good looking f-droid client!
+
+#### `☕` `🧋` [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`Github`</sup>
+> app to get YT premium and other features (not just youtube + has a material you feature for twitter), a bit complicated... The Apps it patches Aren't open-source but the manager is!
+
+#### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`F-Droid (or F-droid alternatives)`</sup>
+> A free E-book downloader!
+
+#### `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`F-Droid (or F-droid alternatives)`</sup>
+> Another F-droid (kinda like the play store but open source apps) client but with material you!
+
+#### `🧋` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`Github`</sup>
+> Brings app updates from the source automatically to update for you!
+
+#### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) <sup>`Google Play Store`</sup>
+> A manager & installer for beta programs of apps!
+
+#### [Google play store](https://play.google.com/store/games) <sup>`Google Play Store`</sup>
+> Need i say more?
+
 
 ##  🌐 Browsers
 
@@ -467,20 +508,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) <sup>`Github`</sup>
 > A sudoku Game But with.... obviously, material you.
 
-## 🌡️ Weather
-
-#### `☕` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian) <sup>`Google Play Store`</sup>
-- Requested and created by moneytoo :)
-> really cool weather app, with a material you design!
-
-#### `☕` `🥤` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`Telegram`</sup>
-> A Port of the Nothing Weather app, from the nothing phone! Modded to have material you! (its a telegram link, so you have to install telegram first)
-
-#### [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases) <sup>`Github`</sup>
-> nice looking weather app i guess
-
-#### [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather) <sup>`Google Play Store`</sup>
->A Beautifully designed weather app!
 
 ## <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
 ### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)<sup>`Google Play Store`</sup> <sup>[`Click this for tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup> unless Devices are Rooted.
@@ -523,7 +550,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > A material you authenticator app!
 
-## 🏢 No Category
+## 🖼️ Misc.
 
 #### `☕` `🧋`  [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG) <sup>`Github`</sup>
 > outdated, but still works! use for vanced, revanced and revanced extended!
@@ -533,8 +560,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🧋` [BuckWheat](https://github.com/danilkinkin/buckwheat)<sup>`Github`</sup>
 > Another mateerial you expense tracker!
-#### `🧋` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/) <sup>`F-Droid (or F-droid alternatives)`</sup>
-> A simple metronome app!
 
 #### `🧋` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`F-Droid (or F-droid alternatives)`</sup>
 > A recipe manager using the mealie api!
@@ -567,6 +592,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`Google Play Store`</sup>
 > a Material you Periodic table!
 
+#### `🧋` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/) <sup>`F-Droid (or F-droid alternatives)`</sup>
+> An app with quotes and quotable text... thats it!
 
 #### [Material You Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) <sup>`Github`</sup>
 > A Dynamic Island (announced with the iphone 14) but with material you!
@@ -583,21 +610,17 @@ the light illuminated part is transparent and fade to solid (All features can me
 ---
 
 ## 🆕 Whats New!
-- Added "Better Lists" section!
-- Added VLC mod
-- Added Modded app tag
-- Changed nothing weather to have Modded tag!
-- Added CloudStream
-- Added lemuroid
-- Added simple Password!
-- Added tutorial for shizuku
+- Added emoji's to catagories!
+- Changed About section!
+- Added More Apps!
+- Added design changes!
 ---
 
 ## 👑 Better Lists lol:
 
 - [Nyas1's List](https://github.com/nyas1/Material-You-app-list)
-
 - [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository)
 
+---
 
 # Star 💫 The Repo If You Liked it!<img src="https://user-images.githubusercontent.com/123305689/235374115-5841d46c-ecf2-42eb-afe7-b422e540b89f.jpg" width="100">
