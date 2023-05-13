@@ -33,7 +33,7 @@
 |`🥤` |<strong>Modded app!</strong>|
 |`🧉 Github/XDA etc.`|<strong>The website for the apps!</strong>|
 <br>
-<a href="https://github.com/TeaEndsAcronyms/Material-You-Apps#-more-about-tags">(for more information about tags click here)</a>
+<a href="https://github.com/TeaEndsAcronyms/Material-You-Apps#more-about-tags">(for more information about tags click here)</a>
 
 ## 🎖️ Best Implementations of Material You
 #### `☕` `🧋` [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`🧉 ApkMirror`</sup>
@@ -50,7 +50,7 @@
 
 ## 🏠 Launchers
 
-#### `☕` `🧋`  [Lawnchair 12](https://lawnchair.app/) or [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`🧉 Website & ApkMirror`</sup>
+#### `☕` `🧋` [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`🧉 Website & ApkMirror`</sup>
 > Its like the Pixel launcher/stock android but with more customizations.
 
 #### `☕` [Nova launcher 8 (beta versions!)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)  <sup>`🧉 ApkMirror`</sup> <sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
