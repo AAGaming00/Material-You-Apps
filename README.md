@@ -251,7 +251,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🥤` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`Telegram`</sup>
 > A Port of the Nothing Weather app, from the nothing phone! Modded to have material you! (its a telegram link, so you have to install telegram first)
 
-<<<<<<< HEAD
 #### [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy) <sup>`🧉 Google Play Store`</sup>
 > A weather app that uses **a lot** of text, might not be for everybody.. but hey i like it!
 
@@ -442,7 +441,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > A free E-book downloader!
 
-<<<<<<< HEAD
 #### `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > Another F-droid (kinda like the play store but open source apps) client but with material you!
 
@@ -462,7 +460,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > open-source browser and with features for privacy!
 
-<<<<<<< HEAD
 #### `🧋` `🥤` [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) <sup>`🧉 Github`</sup>
 > An updated version of the discontinued Bromite browser!
 
@@ -474,7 +471,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ##  🎮 Games
 
-<<<<<<< HEAD
 #### [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`🧉 Github`</sup> <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>
 > An All-In-One Game emulator. doesnt have a light mode for some reason!
 #### `☕` `🧋`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
