@@ -122,10 +122,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🫖`  [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup>`🧉 Google Play Store`</sup>
 > interchangeable android and ios widgets!
-
-#### `🫖`  [MaterialWho? KWGT](https://play.google.com/store/apps/details?id=com.dosartsmtrlwho.widgets) <sup>`🧉 Google Play Store`</sup>
-> Material you inspired widgets, that are symmetrical? cool...
-**Requires KWGT and KWGT Pro key**
+ **Requires KWGT and KWGT Pro key**
 
 #### `🫖`  [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app) <sup>`🧉 Google Play Store`</sup>
 > As the name suggests, pastel android 12 inspired widgets!
