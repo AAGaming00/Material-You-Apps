@@ -594,6 +594,27 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A counter app with really beautiful material you designs and animations!
 ---
 
+## More about tags
+
+`☕` - A specialty tag, the best apps in my opinion! 
+
+
+`🧋` - An App whos code is public!
+
+
+`🍵` - An app that requires additional steps to install or get material you!
+
+
+`🫖` - An app that costs money!
+
+
+`🥤` - An app that is Modified by a independent/unofficial developer
+
+
+`🧉 Github/Play Store/XDA, etc.` - The website/app in which the apps are stored!
+
+---
+
 ## 🆕 Whats New!
 - Added the nightlies of the Aurora Store!
 - Fixed Typo's
@@ -601,36 +622,13 @@ the light illuminated part is transparent and fade to solid (All features can me
 - Moved Tachiyomi to other type of Media!
 - Added Saku!
 - Added Flashlight-Tiramisu!
+
 ---
 
 ## 👑 Better Lists lol:
 
 - [Nyas1's List](https://github.com/nyas1/Material-You-app-list)
 - [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository)
-
-
----
-
-
-## More about tags
-
-###  `☕` - A specialty tag, the best apps in my opinion! 
-
-
-###  `🧋` - An App whos code is public!
-
-
-### `🍵` - An app that requires additional steps to install or get material you!
-
-
-###  `🫖` - An app that costs money!
-
-
-### `🥤` - An app that is Modified by a independent/unofficial developer
-
-
-### `🧉 Github/Play Store/XDA, etc.` - The website in which the apps are stored!
-
 
 ---
 
