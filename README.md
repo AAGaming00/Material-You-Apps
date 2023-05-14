@@ -26,16 +26,17 @@
 
 |🏷️ Tags! |🧾 Description!
 |--|--|
-`☕`|<strong>A specialty tag, the best apps in my opinion!</strong>  
+|`☕`|<strong>A specialty tag, the best apps in my opinion!</strong>  
 |`🧋`  | <strong>Open-Source!</strong> |
 |`🍵`   |  <strong>Additional Steps Required!</strong>|
 |`🫖`|<strong>Paid Apps!</strong>
 |`🥤` |<strong>Modded app!</strong>|
-|`🧉 Github/XDA etc.`|<strong>The website for the apps!</strong>|
+|`🧉 [Github,XDA etc.]`|<strong>The Place in which the app is downloaded!</strong>|
 <br>
 <a href="https://github.com/TeaEndsAcronyms/Material-You-Apps#more-about-tags">(for more information about tags click here)</a>
 
 ## 🎖️ Best Implementations of Material You
+
 #### `☕` `🧋` [Lawnchair 12 beta/dev verisons!](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)  <sup>`🧉 ApkMirror`</sup>
 > Its like the Pixel launcher/stock android but with more customizations.
 #### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`🧉 Google Play Store`</sup>
@@ -128,6 +129,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 > As the name suggests, pastel android 12 inspired widgets!
 **Requires KWGT and KWGT Pro key**
 
+#### [Motorola Widgets](https://www.pling.com/p/1884299)
+> A port of the motorola widgets app!
+
 ## 📛 Icons
 
 #### `☕` `🫖` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`🧉 Google Play Store`</sup>
@@ -177,6 +181,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`🧉 Github`</sup>
 >   Another Material you notes app!
+
+#### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US) <sup>`🧉 Google Play Store`</sup>
+- Request by mirko_ddd :)
+> beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
 
 ## ➕ Calculator
 
@@ -231,7 +239,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 >A wallet made by google.
 
 #### `🧋` [BuckWheat](https://github.com/danilkinkin/buckwheat)<sup>`🧉 Github`</sup>
->Beautiful expense manager!
+> Another material you expense tracker!
+
 #### `🧋` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)<sup>`🧉 Github`</sup>
 > Another nice expence manager!
 
@@ -390,10 +399,12 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) <sup>`🧉 Google Play Store`</sup>
 > Local music player!
 
+#### `🧋` [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
+
 #### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US) <sup>`🧉 Google Play Store`</sup>
 > beautiful local music player!
 
-#### [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
+
 
 ## 📺 Other types of Media
 
@@ -418,10 +429,14 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > A simple metronome app!
 
+#### `🧋` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`🧉 Github`</sup>
+> manga reader! OwO [18+]
+
 #### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) <sup>`🧉 Google Play Store`</sup>
 > podcasting app.
 
 #### [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy) <sup>`🧉 Google Play Store`</sup>
+> A book tracker app!
 
 ---
 
@@ -443,6 +458,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🧋` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`🧉 Github`</sup>
 > Brings app updates from the source automatically to update for you!
+
+#### `🧋` [Aurora Store (Nightlies)](https://files.auroraoss.com/?folder=AuroraStore/Nightly) <sup>`🧉 Website`</sup>
+> An Open-source alternative to the google play-store with many privacy and security features!
 
 #### [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) <sup>`🧉 Google Play Store`</sup>
 > A manager & installer for beta programs of apps!
@@ -468,10 +486,13 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ##  🎮 Games
 
-#### [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`🧉 Github`</sup> <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>
+#### `☕` `🧋` [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`🧉 Github`</sup> <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>
 > An All-In-One Game emulator. doesnt have a light mode for some reason!
 #### `☕` `🧋`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
+
+#### `🧋` [Saku](https://github.com/kafri8889/Saku-Compose-Sudoku)
+> A sudoku Game... yk with material you.
 
 #### `🧋` [Trivia You](https://f-droid.org/packages/com.bnyro.trivia/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > A fun trivia game!
@@ -529,9 +550,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Termux Monet](https://github.com/HardcodedCat/termux-monet) <sup>`🧉 Github`</sup>
 > A terminal emulator app with a material you design and other experimental features!
 
-#### `🧋` [BuckWheat](https://github.com/danilkinkin/buckwheat)<sup>`🧉 Github`</sup>
-> Another mateerial you expense tracker!
-
 #### `🧋` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > A recipe manager using the mealie api!
 
@@ -548,11 +566,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [YASNAC](https://github.com/RikkaW/YASNAC) <sup>`🧉 Github`</sup>
 > As the name implies (Yet Another SafetyNet Attestation Checker) it demonstrates the SafetyNet Attestation API, Which detects your devices integrity! (bootloader, root, etc)
 
-#### `🧋` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`🧉 Github`</sup>
-> manga reader! OwO [18+]
-
 #### `🧋` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`🧉 Website`</sup>
 > Connect your other devices for amazing feature! (for example: cliboard sync, remote control, share, etc.)
+
+#### `🧋` [Flashlight-Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu)
+> A app to adjust the brightness of your flashlight!
 
 #### `🧋` [ImageResizer](https://github.com/T8RIN/ImageResizer) <sup>`🧉 Github`</sup>
 > In the Name... It resizes images!
@@ -572,23 +590,26 @@ the light illuminated part is transparent and fade to solid (All features can me
 ####  [Inware](https://play.google.com/store/apps/details?id=com.evo.inware) <sup>`🧉 Google Play Store`</sup>
 > Find Specs and other useful information for your devices!
 
-#### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US) <sup>`🧉 Google Play Store`</sup>
-- Request by mirko_ddd :)
-> beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
-
 #### [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) <sup>`🧉 Google Play Store`</sup>
 > A counter app with really beautiful material you designs and animations!
 ---
 
 ## 🆕 Whats New!
-- Design Changes!
-- Added few apps!
+- Added the nightlies of the Aurora Store!
+- Fixed Typo's
+- Moved Ruppu to notes!
+- Moved Tachiyomi to other type of Media!
+- Added Saku!
+- Added Flashlight-Tiramisu!
 ---
 
 ## 👑 Better Lists lol:
 
 - [Nyas1's List](https://github.com/nyas1/Material-You-app-list)
 - [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository)
+
+
+---
 
 
 ## More about tags
