@@ -279,7 +279,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Simple Clock](https://f-droid.org/packages/com.simplemobiletools.clock/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > An open-source alternative to the google clock app!
 
-#### [Clock You](https://github.com/Bnyro/ClockYou) <sup>`🧉 Github`</sup>
+#### `🧋` [Clock You](https://github.com/Bnyro/ClockYou) <sup>`🧉 Github`</sup>
 > Another alternative to the google clock app!
 
 
