@@ -1,5 +1,5 @@
 ﻿<h1 align="center"> 
-✨ Material You Apps ✨ <br>
+	<strong>✨ Material You Apps ✨</strong> <br>
 <img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ffc1cc&colorB=ffd1dc&logo=github&logoColor=ff6961"></br>
 </h1>
 
@@ -11,6 +11,8 @@
 # *Before You Start:*
 
 ## ❓ About!
+
+### THANK YOU FOR ALL THE STARS! ✨
 
 (made by Tea. ☕)
 - ###  This is a repo for apps with [google's "Material You" design language](https://m3.material.io/) 
@@ -47,7 +49,7 @@
 > A beautiful reddit client!
 
 ---
-# *💍 Customization:*
+<h1 align="center"><strong><i>💍 Customization:</i></strong></h1>
 
 ## 🏠 Launchers
 
@@ -146,7 +148,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ---
 
-# *⚙️ Tools:*
+<h1 align="center"><strong><i>⚙️ Tools:</i></strong></h1>
 
 ##  📂 File managers
 
@@ -161,7 +163,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [GFiles](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) <sup>`🧉 Google Play Store`</sup> <sup>[`There is a 🧋 alternative called Material Files`](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)</sup>
 
-> 
 ## 📝 Notes
 
 #### `☕` `🧋` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`🧉 Github`</sup>
@@ -266,9 +267,25 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather) <sup>`🧉 Google Play Store`</sup>
 > A Beautifully designed weather app!
 
+## ⏱️ Clock/Timer
+
+
+#### [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US) <sup>`🧉 Google Play Store`</sup>
+
+#### `🧋` [Cofi](https://github.com/rozPierog/Cofi) <sup>`🧉 Github`</sup>
+- Request by Rozpierog :)
+> A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
+
+#### `🧋` [Simple Clock](https://f-droid.org/packages/com.simplemobiletools.clock/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
+> An open-source alternative to the google clock app!
+
+#### [Clock You](https://github.com/Bnyro/ClockYou) <sup>`🧉 Github`</sup>
+> Another alternative to the google clock app!
+
+
 ---
 
-# *🏢 Big Corps:*
+ <h1 align="center"><strong><i>🏢 Big Corps:</i></strong></h1>
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/236181017-57066026-0279-4082-a489-1f669080b28e.png" width="48"> Google
 
@@ -294,7 +311,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm) <sup>`🧉 Google Play Store`</sup>
 
-#### [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) <sup>`🧉 Google Play Store`</sup>
+#### [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) <sup>`🧉 Google Play Store`</sup> <sup>[`Click here for Gcam ports!`](https://www.xda-developers.com/google-camera-port-hub/)</sup>
 
 #### [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US) <sup>`🧉 Google Play Store`</sup>
 
@@ -303,6 +320,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ##  <img src="https://user-images.githubusercontent.com/123305689/236613393-bc0c38a3-7b71-4df8-9893-1a9e28602280.png" width="48"> Motorola
 
 ## All motorola ports can be found [here!](https://www.pling.com/p/1884299) <sup>`🧉 Pling`</sup>
+> All of these work with all devices!
 
 #### [Motorola Calculator](https://www.pling.com/p/1884299) <sup>`🧉 Pling`</sup>
 
@@ -314,9 +332,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [Motorola Dialer](https://www.pling.com/p/1884299) <sup>`🧉 Pling`</sup>
 
+#### [Motorola Camera](https://www.pling.com/p/1884299) <sup>`🧉 Pling`</sup>
+
 ---
 
-# *🎨 fix for non-MY apps:*
+ <h1 align="center"><strong><i>🎨 fix for non-MY apps:</i></strong></h1>
 
 ##  <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/90dd6a7a-22c1-443a-825d-429cb18752d3" width="48"> Youtube
 
@@ -373,7 +393,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ---
 
-# *📹 Media:*
+ <h1 align="center"><strong><i>📹 Media:</i></strong></h1>
 
 ## 📼 Video/Music Downloaders
 
@@ -440,7 +460,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ---
 
-# *⚡ Others:*
+ <h1 align="center"><strong><i>⚡ Others:</i></strong></h1>
 
 ##  🏪 App Stores
 
@@ -556,10 +576,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋`  [Compass](https://github.com/SynapseTech/Compass) <sup>`🧉 Github`</sup>
 > a very ✨beautiful✨ looking compass!
 
-#### `🧋` [Cofi](https://github.com/rozPierog/Cofi) <sup>`🧉 Github`</sup>
-- Request by Rozpierog :)
-> A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
-
 #### `🧋` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/) <sup>`🧉 F-Droid (or F-droid alternatives)`</sup>
 > A really nice and useful app manager, great for advanced users!
 
@@ -577,6 +593,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🧋` [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`🧉 Github`</sup>
 > Restores the old App chooser when clicking on an url!
+
+#### [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/) <sup>`XDA`</sup>
+> A list of ports for the Google camera app!
 
 #### `🧋` [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`🧉 Google Play Store`</sup>
 > a Material you Periodic table!
@@ -616,13 +635,13 @@ the light illuminated part is transparent and fade to solid (All features can me
 ---
 
 ## 🆕 Whats New!
-- Added the nightlies of the Aurora Store!
-- Fixed Typo's
-- Moved Ruppu to notes!
-- Moved Tachiyomi to other type of Media!
-- Added Saku!
-- Added Flashlight-Tiramisu!
-
+- Added a thank you note!
+- Added Gcam port!
+- Added Motorola Camera!
+- Additions to design!
+- Added "Clock" Section
+- added Clock ,Simple Clock, and clock you!
+- Moved Cofi To clock Section!
 ---
 
 ## 👑 Better Lists lol:
