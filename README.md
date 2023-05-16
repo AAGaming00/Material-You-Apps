@@ -142,9 +142,14 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋` [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) <sup>`🧉 Github`</sup>
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
 
-
 #### `🫖` [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US) <sup>`🧉 Google Play Store`</sup>
 > Another material you icons.
+
+#### `🫖` [Saga](https://play.google.com/store/apps/details?id=com.lknninex.saga)
+> A material you icon pack with a unique faded black icons! (can't explain how it looks lol)
+
+#### `🫖` [Nothing Material You](https://play.google.com/store/apps/details?id=dev.narikdesign.nothingmaterialyou)
+> a Nothing inspired icons with a material you spin!
 
 ---
 
@@ -635,13 +640,8 @@ the light illuminated part is transparent and fade to solid (All features can me
 ---
 
 ## 🆕 Whats New!
-- Added a thank you note!
-- Added Gcam port!
-- Added Motorola Camera!
-- Additions to design!
-- Added "Clock" Section
-- added Clock ,Simple Clock, and clock you!
-- Moved Cofi To clock Section!
+- Added Saga icons
+- Added Nothing MY icons
 ---
 
 ## 👑 Better Lists lol:
