@@ -41,7 +41,7 @@
 > Its like the Pixel launcher/stock android but with more customizations.
 
 #### `☕` [Nova launcher 8 (beta versions)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) 
-> #### Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup></strong>
+> #### Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup></strong>
 > extremely customizable launcher, got accuired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
 #### `🧋` [Kvaesitso](https://kvaesitso.mm20.de/)
@@ -139,7 +139,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ##  📁 File Manager
 
 #### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) 
-> #### Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
+> #### Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 > Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
 #### `🧋` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
@@ -192,7 +192,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > a Powerful Qr and BarCode scanner with a really nice design!
 
 #### `🧋` `🍵` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
-Click this for: <sup>[`Click this for Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>
+Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>
 
 > A qr code Scanner made for pixels but works for devices with andorid 12+ 
 
@@ -321,17 +321,17 @@ Click this for: <sup>[`Click this for Tutorial to install`](https://github.com/T
 
 #### use: `🧋` [LibreTube](https://github.com/libre-tube/LibreTube)
 #### <strong> OR </strong>
-#### Click this for: <sup>[`YT Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>
+#### Click this for: <sup>[`YT Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>
 
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235360036-23fc8541-676b-4390-be6e-6ababf0a6811.png" width="48"> Twitter
 
 
-#### Click this for: <sup>[`Twitter Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup>  
+#### Click this for: <sup>[`Twitter Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>  
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235372718-63e99b46-359b-49df-9cca-a7d649d6693e.png" width="48"> Telegram
 
-#### Click this for: <sup>[`Telegram Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5) </sup> 
+#### Click this for: <sup>[`Telegram Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup> 
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music 
 
@@ -405,7 +405,7 @@ Click this for: <sup>[`Click this for Tutorial to install`](https://github.com/T
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
 
 #### `🧋` [CloudStream](https://github.com/recloudstream/cloudstream) 
-> #### Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
+> #### Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 > A Free TV Show/Movie streaming (piracy) app
 
 #### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/)
@@ -488,7 +488,7 @@ Click this for: <sup>[`Click this for Tutorial to install`](https://github.com/T
 ## <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
 
 ### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted.
-> #### Click this for: <sup> [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)</sup>
+> #### Click this for: <sup> [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
 #### `☕` `🍵`  `🧋` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
@@ -506,7 +506,7 @@ Click this for: <sup>[`Click this for Tutorial to install`](https://github.com/T
 > Allows you to use dark-mode on non-dark mode supported apps!
 
 #### `🧋` `🍵` [Inure](https://github.com/Hamza417/Inure)
-> A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU: <sup>[`Click this for Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/3.5)** </sup>
+> A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU: <sup>[`Click this for Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)** </sup>
 
 #### `🍵` [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps)
 > A battery manager, only down-side is that it has ads.
