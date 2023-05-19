@@ -73,7 +73,7 @@
 ####  [PaperSplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
 > Nice looking app! (but includes a pro version)
 
-####  [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
+#### `🧋` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
 > Amazing wallpapers, with amazing and customizable animations!
 
 ####  [MWalls](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app&gl=US)
