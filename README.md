@@ -1,3 +1,6 @@
+# Archive!
+Since people seem to be starring this, this isn't originally my repo. This was a fork of a repo by `TeaEndsAcronyms`, and their account seems to have been deleted, along with seemingly everything else about them I can find. I'll keep this repo as a historic reference. Tea, if you would like this deleted, or have anything you want to ask, feel free to contact me via one of the methods on https://aagaming.me/contact
+
 <h1 align="center"> 
 	<strong>✨ Material You Apps ✨</strong> <br>
 <img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ffc1cc&colorB=ffd1dc&logo=github&logoColor=ff6961"></br>
