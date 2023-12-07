@@ -1,0 +1,34 @@
+name: Extract and Filter Links
+
+on:
+  schedule:
+    - cron: '0 0 * * 4'
+  workflow_dispatch:
+
+jobs:
+  extract-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: Main-List
+
+      - name: Extract, Filter, and Commit links
+        run: |
+          echo "Step 1: Extracting URLs from README.md"
+          grep -oP 'http[s]?://[^<]*' README.md \
+            | grep -Ev '`|<sup>|<\/sup>' \
+            | grep -E '.' \
+            | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com|thedise\.me|auroraoss\.com|https://www.coolapk1s.com/feed/42984209| An Amazing material you apps list, it was the inspiration of my list uwu!|here!|A fork of misaka'\''s now deleted list. A great list with \*\*A TON\*\* of apps!' \
+            | sed -E 's/[()*]//g' \
+            > .github/outputs/filtered-links.txt
+
+          echo "Step 2: Configure Git"
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+          echo "Step 3: Commit Changes"
+          git add .github/outputs/filtered-links.txt
+          git diff-index --quiet HEAD || git commit -m "🤖 Test Links (action #1)"
+          git push origin HEAD

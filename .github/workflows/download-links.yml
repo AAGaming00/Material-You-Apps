@@ -1,0 +1,18 @@
+name: Download Filtered Links
+
+on:
+  workflow_run:
+    workflows: ["Extract and Filter Links"]
+    types:
+      - completed
+
+jobs:
+  download-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download Links with wget
+        run: |
+          wget -i .github/outputs/filtered-links.txt
